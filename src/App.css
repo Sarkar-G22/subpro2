@@ -1,0 +1,140 @@
+.app {
+  min-height: 100vh;
+  background: #000;
+  color: #fff;
+}
+
+.app-header {
+  text-align: center;
+  padding: 2rem 1rem;
+  border-bottom: 1px solid #333;
+}
+
+.app-header h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.app-header p {
+  color: #888;
+  font-size: 1.1rem;
+}
+
+.app-main {
+  flex: 1;
+}
+
+.nav-tabs {
+  display: flex;
+  justify-content: center;
+  border-bottom: 1px solid #333;
+  padding: 0 1rem;
+  background: #111;
+}
+
+.nav-tab {
+  background: none;
+  border: none;
+  color: #888;
+  padding: 1rem 2rem;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  border-bottom: 3px solid transparent;
+  transition: all 0.2s ease;
+}
+
+.nav-tab:hover:not(.disabled) {
+  color: #fff;
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.nav-tab.active {
+  color: #667eea;
+  border-bottom-color: #667eea;
+}
+
+.nav-tab.disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+.content-area {
+  padding: 2rem;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.upload-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 60vh;
+}
+
+.settings-section {
+  min-height: 60vh;
+}
+
+.settings-grid {
+  display: grid;
+  grid-template-columns: 1fr 320px;
+  gap: 2rem;
+  align-items: start;
+}
+
+.settings-main {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.settings-sidebar {
+  position: sticky;
+  top: 2rem;
+}
+
+.editor-section {
+  min-height: 60vh;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+  .settings-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  
+  .settings-sidebar {
+    position: static;
+  }
+}
+
+@media (max-width: 768px) {
+  .content-area {
+    padding: 1rem;
+  }
+  
+  .nav-tabs {
+    padding: 0 0.5rem;
+    overflow-x: auto;
+  }
+  
+  .nav-tab {
+    padding: 1rem 1.5rem;
+    white-space: nowrap;
+  }
+  
+  .app-header {
+    padding: 1.5rem 1rem;
+  }
+  
+  .app-header h1 {
+    font-size: 2rem;
+  }
+}

@@ -1,0 +1,115 @@
+1
+00:00:07,500 --> 00:00:09,859
+Okay, let's do some tests
+
+2
+00:00:11,199 --> 00:00:13,500
+Tell me when you see something that makes sound
+
+3
+00:00:15,800 --> 00:00:17,679
+I see a speaker which makes sound
+
+4
+00:00:20,199 --> 00:00:22,019
+What is that part of the speaker called
+
+5
+00:00:23,940 --> 00:00:25,339
+That is the tweeter
+
+6
+00:00:25,339 --> 00:00:27,539
+It produces high frequency sounds
+
+7
+00:00:31,740 --> 00:00:34,079
+Give me a creative alliteration about these
+
+8
+00:00:36,380 --> 00:00:38,340
+Creative crayons color cheerfully
+
+9
+00:00:39,020 --> 00:00:40,759
+They certainly craft colorful creations
+
+10
+00:00:46,219 --> 00:00:48,259
+What does that part of the code do
+
+11
+00:00:51,019 --> 00:00:54,039
+This code defines encryption and decryption functions
+
+12
+00:00:54,039 --> 00:01:01,219
+It seems to use AESCBC encryption to encode and decode data based on a key and an
+
+13
+00:01:01,219 --> 00:01:02,920
+Initialization vector, IV
+
+14
+00:01:05,379 --> 00:01:06,180
+That's right
+
+15
+00:01:08,719 --> 00:01:10,260
+What neighborhood do you think I'm in
+
+16
+00:01:12,519 --> 00:01:15,180
+This appears to be the King's Cross area of London
+
+17
+00:01:15,879 --> 00:01:19,120
+It is known for its railway station and transportation connections
+
+18
+00:01:21,140 --> 00:01:23,180
+Do you remember where you saw my glasses
+
+19
+00:01:25,719 --> 00:01:26,659
+Yes, I do
+
+20
+00:01:27,060 --> 00:01:29,140
+Your glasses were on the desk and you were red apple
+
+21
+00:01:41,320 --> 00:01:44,099
+What can I add here to make this system faster
+
+22
+00:01:46,899 --> 00:01:50,739
+Adding a cache between the server and database could improve speed
+
+23
+00:01:52,540 --> 00:01:54,540
+What does this remind you of
+
+24
+00:01:57,920 --> 00:01:58,879
+Trudginger's cat
+
+25
+00:02:01,000 --> 00:02:05,120
+Alright, give me a ban name for this duo
+
+26
+00:02:08,539 --> 00:02:09,340
+Golden Strikes
+
+27
+00:02:10,139 --> 00:02:10,419
+Nice
+
+28
+00:02:10,960 --> 00:02:11,460
+Thanks, Dominic
+
+29
+00:02:15,599 --> 00:02:17,000
+Thank you

@@ -1,0 +1,59 @@
+1
+00:00:00,000 --> 00:00:04,259
+Alright, so should you learn to code or let AI do coding for you
+
+2
+00:00:04,740 --> 00:00:09,240
+I mean there are like crazy amount of AI tools right now that can actually take a simple
+
+3
+00:00:09,240 --> 00:00:12,500
+Text input and convert it into a real project
+
+4
+00:00:12,759 --> 00:00:16,739
+For example, let's say you want to create a dashboard for your SAS application or create
+
+5
+00:00:16,739 --> 00:00:21,460
+A simple to do app or maybe a not taking app, simply open one of these AI tools, give it
+
+6
+00:00:21,460 --> 00:00:24,620
+A simple text prompt and the code should be ready in no time
+
+7
+00:00:24,859 --> 00:00:27,420
+So it all started with the introduction of chat GPT
+
+8
+00:00:27,420 --> 00:00:32,299
+So back in the days when chat GPT was initially announced, if a person want to develop
+
+9
+00:00:32,299 --> 00:00:36,579
+A let's say code and HTML page with some basic styling and stuff, he could write away
+
+10
+00:00:36,579 --> 00:00:41,159
+Open chat GPT and ask it to code the same and chat GPT should give the code in no time
+
+11
+00:00:41,560 --> 00:00:44,719
+Similarly let's say some basic JavaScript project PHP Python
+
+12
+00:00:45,100 --> 00:00:49,020
+I mean chat GPT was capable enough to write code for all of these popular frameworks
+
+13
+00:00:49,020 --> 00:00:50,780
+And libraries and programming languages
+
+14
+00:00:51,079 --> 00:00:55,640
+After chat GPT came other AI chat boards like cloud AI which performed way better
+
+15
+00:00:55,640 --> 00:00:59,920
+When it comes to coding sort of things and then various different LLMS and AI models

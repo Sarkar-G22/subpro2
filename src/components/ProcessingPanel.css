@@ -1,0 +1,153 @@
+.processing-panel {
+  background: #111;
+  border: 1px solid #333;
+  border-radius: 8px;
+  padding: 1.5rem;
+}
+
+.panel-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+  color: #667eea;
+}
+
+.panel-header h3 {
+  margin: 0;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.video-summary {
+  background: #1a1a1a;
+  border: 1px solid #333;
+  border-radius: 6px;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.video-summary h4 {
+  margin: 0 0 0.5rem 0;
+  color: #ccc;
+  font-size: 1rem;
+}
+
+.video-details p {
+  margin: 0.25rem 0;
+  color: #aaa;
+  font-size: 0.9rem;
+}
+
+.video-details strong {
+  color: #fff;
+}
+
+.settings-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.setting-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.setting-label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #ccc;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.setting-select {
+  background: #222;
+  border: 1px solid #444;
+  border-radius: 4px;
+  padding: 0.75rem;
+  color: #fff;
+  font-size: 0.9rem;
+}
+
+.setting-select:focus {
+  border-color: #667eea;
+  outline: none;
+}
+
+.setting-select:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.setting-help {
+  color: #888;
+  font-size: 0.8rem;
+  margin: 0;
+  line-height: 1.4;
+}
+
+.action-section {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.process-button {
+  background: #667eea;
+  border: none;
+  border-radius: 6px;
+  padding: 1rem 2rem;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  transition: all 0.2s ease;
+}
+
+.process-button:hover:not(:disabled) {
+  background: #5a67d8;
+  transform: translateY(-1px);
+}
+
+.process-button:disabled {
+  background: #333;
+  color: #666;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.model-recommendation {
+  background: rgba(102, 126, 234, 0.1);
+  border: 1px solid rgba(102, 126, 234, 0.3);
+  border-radius: 4px;
+  padding: 0.75rem;
+}
+
+.model-recommendation p {
+  margin: 0;
+  color: #667eea;
+  font-size: 0.9rem;
+}
+
+@media (max-width: 768px) {
+  .processing-panel {
+    padding: 1rem;
+  }
+  
+  .settings-grid {
+    gap: 1rem;
+  }
+  
+  .process-button {
+    padding: 0.875rem 1.5rem;
+  }
+}

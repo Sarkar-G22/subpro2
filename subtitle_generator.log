@@ -1,0 +1,1632 @@
+2025-07-28 19:04:56,711 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 19:04:56,713 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: False, OpenCV: True
+2025-07-28 19:04:56,805 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 19:04:56,805 - INFO - Dependency check results:
+2025-07-28 19:04:56,893 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.241.227:5000
+2025-07-28 19:04:56,894 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-28 19:04:56,915 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-28 19:05:01,989 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 19:05:01,991 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: False, OpenCV: True
+2025-07-28 19:05:02,192 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 19:05:02,192 - INFO - Dependency check results:
+2025-07-28 19:05:02,253 - WARNING -  * Debugger is active!
+2025-07-28 19:05:02,259 - INFO -  * Debugger PIN: 107-557-390
+2025-07-28 19:09:50,756 - INFO - Job d5b27cb8-9910-4430-baa7-e8eff853a17a: Initializing - Starting video processing (0%)
+2025-07-28 19:09:50,775 - INFO - 127.0.0.1 - - [28/Jul/2025 19:09:50] "POST /api/process-video HTTP/1.1" 200 -
+2025-07-28 19:09:50,775 - INFO - Processing video: uploads\1753709990_41fad257d187e89b8e1e9b248f92e3d356a206bf9833aca9a20c3896.mp4 (10.2MB)
+2025-07-28 19:09:50,789 - ERROR - Unhandled exception: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-07-28 19:09:50,790 - WARNING - For better Hindi/Hinglish accuracy, consider using 'small' or larger models
+2025-07-28 19:09:50,792 - INFO - 127.0.0.1 - - [28/Jul/2025 19:09:50] "[35m[1mGET /api/process-status HTTP/1.1[0m" 500 -
+2025-07-28 19:09:50,793 - INFO - Loading Whisper model: base
+2025-07-28 19:09:52,256 - INFO - Successfully loaded Whisper model: base
+2025-07-28 19:09:52,376 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 19:09:52,376 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: False, OpenCV: True
+2025-07-28 19:09:52,490 - INFO -  * Detected change in 'C:\\Python311\\Lib\\threading.py', reloading
+2025-07-28 19:09:54,117 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-28 19:10:00,094 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 19:10:00,094 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: False, OpenCV: True
+2025-07-28 19:10:00,171 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 19:10:00,171 - INFO - Dependency check results:
+2025-07-28 19:10:00,204 - WARNING -  * Debugger is active!
+2025-07-28 19:10:00,211 - INFO -  * Debugger PIN: 107-557-390
+2025-07-28 19:14:07,359 - ERROR - Unhandled exception: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-07-28 19:14:07,362 - INFO - 127.0.0.1 - - [28/Jul/2025 19:14:07] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-07-28 19:14:07,613 - ERROR - Unhandled exception: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-07-28 19:14:07,613 - INFO - 127.0.0.1 - - [28/Jul/2025 19:14:07] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2025-07-28 19:18:54,555 - INFO - Job 676bb5b2-2892-48dd-a8ed-42b595acdb40: Initializing - Starting video processing (0%)
+2025-07-28 19:18:54,567 - INFO - 127.0.0.1 - - [28/Jul/2025 19:18:54] "POST /api/process-video HTTP/1.1" 200 -
+2025-07-28 19:18:54,567 - INFO - Processing video: uploads\1753710534_videoplayback_7_1.mp4 (4.6MB)
+2025-07-28 19:18:54,572 - WARNING - For better Hindi/Hinglish accuracy, consider using 'small' or larger models
+2025-07-28 19:18:54,572 - INFO - Loading Whisper model: base
+2025-07-28 19:18:54,647 - INFO - 127.0.0.1 - - [28/Jul/2025 19:18:54] "GET /api/job-status/676bb5b2-2892-48dd-a8ed-42b595acdb40 HTTP/1.1" 200 -
+2025-07-28 19:18:55,664 - INFO - 127.0.0.1 - - [28/Jul/2025 19:18:55] "GET /api/job-status/676bb5b2-2892-48dd-a8ed-42b595acdb40 HTTP/1.1" 200 -
+2025-07-28 19:18:56,160 - INFO - Successfully loaded Whisper model: base
+2025-07-28 19:18:56,281 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 19:18:56,281 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: False, OpenCV: True
+2025-07-28 19:18:56,700 - INFO - Transcribing in language: en
+2025-07-28 19:18:56,700 - INFO - Starting transcription of: outputs\676bb5b2-2892-48dd-a8ed-42b595acdb40\extracted_audio.wav
+2025-07-28 19:18:56,764 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\whisper\\transcribe.py', reloading
+2025-07-28 19:18:56,998 - INFO - 127.0.0.1 - - [28/Jul/2025 19:18:56] "GET /api/job-status/676bb5b2-2892-48dd-a8ed-42b595acdb40 HTTP/1.1" 200 -
+2025-07-28 19:18:59,282 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-28 19:19:06,488 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 19:19:06,488 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: False, OpenCV: True
+2025-07-28 19:19:06,561 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 19:19:06,561 - INFO - Dependency check results:
+2025-07-28 19:19:06,596 - WARNING -  * Debugger is active!
+2025-07-28 19:19:06,602 - INFO -  * Debugger PIN: 107-557-390
+2025-07-28 19:19:06,691 - INFO - 127.0.0.1 - - [28/Jul/2025 19:19:06] "[33mGET /api/job-status/676bb5b2-2892-48dd-a8ed-42b595acdb40 HTTP/1.1[0m" 404 -
+2025-07-28 19:48:13,411 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 19:48:13,411 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: False, OpenCV: True
+2025-07-28 19:48:13,492 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 19:48:13,492 - INFO - Dependency check results:
+2025-07-28 19:48:13,547 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.241.227:5000
+2025-07-28 19:48:13,548 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-28 19:48:13,576 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-28 19:48:17,704 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 19:48:17,704 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: False, OpenCV: True
+2025-07-28 19:48:17,775 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 19:48:17,775 - INFO - Dependency check results:
+2025-07-28 19:48:17,799 - WARNING -  * Debugger is active!
+2025-07-28 19:48:17,806 - INFO -  * Debugger PIN: 107-557-390
+2025-07-28 19:48:59,814 - INFO - Job c8e51286-5d88-492f-bb9d-d51785dd4297: Initializing - Starting video processing (0%)
+2025-07-28 19:48:59,822 - INFO - 127.0.0.1 - - [28/Jul/2025 19:48:59] "POST /api/process-video HTTP/1.1" 200 -
+2025-07-28 19:48:59,824 - INFO - Processing video: uploads\1753712339_videoplayback_7_1.mp4 (4.6MB)
+2025-07-28 19:48:59,825 - WARNING - For better Hindi/Hinglish accuracy, consider using 'small' or larger models
+2025-07-28 19:48:59,828 - INFO - Loading Whisper model: base
+2025-07-28 19:48:59,915 - INFO - 127.0.0.1 - - [28/Jul/2025 19:48:59] "GET /api/job-status/c8e51286-5d88-492f-bb9d-d51785dd4297 HTTP/1.1" 200 -
+2025-07-28 19:49:00,944 - INFO - 127.0.0.1 - - [28/Jul/2025 19:49:00] "GET /api/job-status/c8e51286-5d88-492f-bb9d-d51785dd4297 HTTP/1.1" 200 -
+2025-07-28 19:49:01,703 - INFO - Successfully loaded Whisper model: base
+2025-07-28 19:49:01,862 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 19:49:01,862 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: False, OpenCV: True
+2025-07-28 19:49:02,276 - INFO - 127.0.0.1 - - [28/Jul/2025 19:49:02] "GET /api/job-status/c8e51286-5d88-492f-bb9d-d51785dd4297 HTTP/1.1" 200 -
+2025-07-28 19:49:02,510 - INFO - Transcribing in language: en
+2025-07-28 19:49:02,511 - INFO - Starting transcription of: outputs\c8e51286-5d88-492f-bb9d-d51785dd4297\extracted_audio.wav
+2025-07-28 19:49:03,653 - INFO - 127.0.0.1 - - [28/Jul/2025 19:49:03] "GET /api/job-status/c8e51286-5d88-492f-bb9d-d51785dd4297 HTTP/1.1" 200 -
+2025-07-28 19:49:04,708 - INFO - 127.0.0.1 - - [28/Jul/2025 19:49:04] "GET /api/job-status/c8e51286-5d88-492f-bb9d-d51785dd4297 HTTP/1.1" 200 -
+2025-07-28 19:49:06,029 - INFO - 127.0.0.1 - - [28/Jul/2025 19:49:06] "GET /api/job-status/c8e51286-5d88-492f-bb9d-d51785dd4297 HTTP/1.1" 200 -
+2025-07-28 19:49:07,096 - INFO - 127.0.0.1 - - [28/Jul/2025 19:49:07] "GET /api/job-status/c8e51286-5d88-492f-bb9d-d51785dd4297 HTTP/1.1" 200 -
+2025-07-28 19:49:09,089 - INFO - 127.0.0.1 - - [28/Jul/2025 19:49:09] "GET /api/job-status/c8e51286-5d88-492f-bb9d-d51785dd4297 HTTP/1.1" 200 -
+2025-07-28 19:49:10,734 - INFO - 127.0.0.1 - - [28/Jul/2025 19:49:10] "GET /api/job-status/c8e51286-5d88-492f-bb9d-d51785dd4297 HTTP/1.1" 200 -
+2025-07-28 19:49:13,069 - INFO - 127.0.0.1 - - [28/Jul/2025 19:49:13] "GET /api/job-status/c8e51286-5d88-492f-bb9d-d51785dd4297 HTTP/1.1" 200 -
+2025-07-28 19:49:14,743 - INFO - 127.0.0.1 - - [28/Jul/2025 19:49:14] "GET /api/job-status/c8e51286-5d88-492f-bb9d-d51785dd4297 HTTP/1.1" 200 -
+2025-07-28 19:49:16,928 - INFO - 127.0.0.1 - - [28/Jul/2025 19:49:16] "GET /api/job-status/c8e51286-5d88-492f-bb9d-d51785dd4297 HTTP/1.1" 200 -
+2025-07-28 19:49:18,042 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\whisper\\timing.py', reloading
+2025-07-28 19:49:18,186 - INFO -  * Detected change in 'C:\\Users\\nikhil\\AppData\\Roaming\\Python\\Python311\\site-packages\\numba\\np\\arrayobj.py', reloading
+2025-07-28 19:49:18,259 - INFO - 127.0.0.1 - - [28/Jul/2025 19:49:18] "GET /api/job-status/c8e51286-5d88-492f-bb9d-d51785dd4297 HTTP/1.1" 200 -
+2025-07-28 19:49:20,798 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-28 19:49:27,085 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 19:49:27,085 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: False, OpenCV: True
+2025-07-28 19:49:27,207 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 19:49:27,207 - INFO - Dependency check results:
+2025-07-28 19:49:27,254 - WARNING -  * Debugger is active!
+2025-07-28 19:49:27,262 - INFO -  * Debugger PIN: 107-557-390
+2025-07-28 19:49:27,393 - INFO - 127.0.0.1 - - [28/Jul/2025 19:49:27] "[33mGET /api/job-status/c8e51286-5d88-492f-bb9d-d51785dd4297 HTTP/1.1[0m" 404 -
+2025-07-28 19:55:53,306 - INFO -  * Detected change in 'C:\\Users\\nikhil\\Desktop\\vidiQ\\subtile\\subtitle 1\\python\\script.py', reloading
+2025-07-28 19:55:57,282 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-28 19:56:05,961 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 19:56:05,961 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: False, OpenCV: True
+2025-07-28 19:56:06,064 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 19:56:06,064 - INFO - Dependency check results:
+2025-07-28 19:56:06,064 - INFO -   whisper: Available
+2025-07-28 19:56:06,064 - INFO -   moviepy: Missing
+2025-07-28 19:56:06,064 - INFO -   opencv: Available
+2025-07-28 19:56:06,064 - INFO -   ffmpeg: Available
+2025-07-28 19:56:06,081 - WARNING -  * Debugger is active!
+2025-07-28 19:56:06,081 - INFO -  * Debugger PIN: 107-557-390
+2025-07-28 19:56:21,180 - INFO -  * Detected change in 'C:\\Users\\nikhil\\Desktop\\vidiQ\\subtile\\subtitle 1\\python\\server.py', reloading
+2025-07-28 19:56:23,066 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-28 19:56:28,364 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 19:56:28,364 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: False, OpenCV: True
+2025-07-28 19:56:28,465 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 19:56:28,467 - INFO - Dependency check results:
+2025-07-28 19:56:28,467 - INFO -   whisper: Available
+2025-07-28 19:56:28,467 - INFO -   moviepy: Missing
+2025-07-28 19:56:28,467 - INFO -   opencv: Available
+2025-07-28 19:56:28,467 - INFO -   ffmpeg: Available
+2025-07-28 19:56:28,504 - WARNING -  * Debugger is active!
+2025-07-28 19:56:28,514 - INFO -  * Debugger PIN: 107-557-390
+2025-07-28 19:58:36,258 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\Clip.py', reloading
+2025-07-28 19:58:36,277 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\config.py', reloading
+2025-07-28 19:58:36,279 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\decorators.py', reloading
+2025-07-28 19:58:36,279 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\Effect.py', reloading
+2025-07-28 19:58:36,279 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\tools.py', reloading
+2025-07-28 19:58:36,281 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\version.py', reloading
+2025-07-28 19:58:36,281 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\__init__.py', reloading
+2025-07-28 19:58:36,281 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\audio\\AudioClip.py', reloading
+2025-07-28 19:58:36,283 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\audio\\__init__.py', reloading
+2025-07-28 19:58:36,283 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\audio\\fx\\AudioDelay.py', reloading
+2025-07-28 19:58:36,285 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\audio\\fx\\AudioFadeIn.py', reloading
+2025-07-28 19:58:36,285 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\audio\\fx\\AudioFadeOut.py', reloading
+2025-07-28 19:58:36,285 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\audio\\fx\\AudioLoop.py', reloading
+2025-07-28 19:58:36,287 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\audio\\fx\\AudioNormalize.py', reloading
+2025-07-28 19:58:36,287 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\audio\\fx\\MultiplyStereoVolume.py', reloading
+2025-07-28 19:58:36,289 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\audio\\fx\\MultiplyVolume.py', reloading
+2025-07-28 19:58:36,293 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\audio\\fx\\__init__.py', reloading
+2025-07-28 19:58:36,299 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\audio\\io\\AudioFileClip.py', reloading
+2025-07-28 19:58:36,299 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\audio\\io\\ffmpeg_audiowriter.py', reloading
+2025-07-28 19:58:36,301 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\audio\\io\\ffplay_audiopreviewer.py', reloading
+2025-07-28 19:58:36,320 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\audio\\io\\readers.py', reloading
+2025-07-28 19:58:36,321 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\audio\\io\\__init__.py', reloading
+2025-07-28 19:58:36,323 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\audio\\tools\\cuts.py', reloading
+2025-07-28 19:58:36,323 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\audio\\tools\\__init__.py', reloading
+2025-07-28 19:58:36,328 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\video\\VideoClip.py', reloading
+2025-07-28 19:58:36,335 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\video\\__init__.py', reloading
+2025-07-28 19:58:36,337 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\video\\compositing\\CompositeVideoClip.py', reloading
+2025-07-28 19:58:36,337 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\video\\compositing\\__init__.py', reloading
+2025-07-28 19:58:36,341 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\video\\fx\\AccelDecel.py', reloading
+2025-07-28 19:58:36,345 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\video\\fx\\BlackAndWhite.py', reloading
+2025-07-28 19:58:36,351 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\video\\fx\\Blink.py', reloading
+2025-07-28 19:58:36,351 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\video\\fx\\Crop.py', reloading
+2025-07-28 19:58:36,353 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\video\\fx\\CrossFadeIn.py', reloading
+2025-07-28 19:58:36,355 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\video\\fx\\CrossFadeOut.py', reloading
+2025-07-28 19:58:36,357 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\video\\fx\\EvenSize.py', reloading
+2025-07-28 19:58:36,358 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\video\\fx\\FadeIn.py', reloading
+2025-07-28 19:58:36,359 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\video\\fx\\FadeOut.py', reloading
+2025-07-28 19:58:36,360 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\video\\fx\\Freeze.py', reloading
+2025-07-28 19:58:36,361 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\video\\fx\\FreezeRegion.py', reloading
+2025-07-28 19:58:36,362 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\moviepy\\video\\fx\\GammaCorrection.py', reloading
+2025-07-28 19:58:38,808 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-28 19:58:54,049 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 19:58:54,049 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-28 19:58:54,166 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 19:58:54,166 - INFO - Dependency check results:
+2025-07-28 19:58:54,168 - INFO -   whisper: Available
+2025-07-28 19:58:54,168 - INFO -   moviepy: Available
+2025-07-28 19:58:54,168 - INFO -   opencv: Available
+2025-07-28 19:58:54,168 - INFO -   ffmpeg: Available
+2025-07-28 19:58:54,198 - WARNING -  * Debugger is active!
+2025-07-28 19:58:54,212 - INFO -  * Debugger PIN: 107-557-390
+2025-07-28 19:59:04,159 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 19:59:04,160 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-28 19:59:04,264 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 19:59:04,264 - INFO - Dependency check results:
+2025-07-28 19:59:04,264 - INFO -   whisper: Available
+2025-07-28 19:59:04,264 - INFO -   moviepy: Available
+2025-07-28 19:59:04,265 - INFO -   opencv: Available
+2025-07-28 19:59:04,265 - INFO -   ffmpeg: Available
+2025-07-28 19:59:04,313 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.241.227:5000
+2025-07-28 19:59:04,314 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-28 19:59:04,332 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-28 19:59:12,273 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 19:59:12,274 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-28 19:59:12,386 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 19:59:12,387 - INFO - Dependency check results:
+2025-07-28 19:59:12,387 - INFO -   whisper: Available
+2025-07-28 19:59:12,387 - INFO -   moviepy: Available
+2025-07-28 19:59:12,388 - INFO -   opencv: Available
+2025-07-28 19:59:12,388 - INFO -   ffmpeg: Available
+2025-07-28 19:59:12,422 - WARNING -  * Debugger is active!
+2025-07-28 19:59:12,434 - INFO -  * Debugger PIN: 107-557-390
+2025-07-28 19:59:46,096 - INFO - Job 7ccf1d4e-027e-4630-8455-37a209091f3e: Initializing - Starting video processing (0%)
+2025-07-28 19:59:46,101 - INFO - 127.0.0.1 - - [28/Jul/2025 19:59:46] "POST /api/process-video HTTP/1.1" 200 -
+2025-07-28 19:59:46,103 - INFO - Processing video: uploads\1753712986_videoplayback_7_1.mp4 (4.6MB)
+2025-07-28 19:59:46,109 - WARNING - For better Hindi/Hinglish accuracy, consider using 'small' or larger models
+2025-07-28 19:59:46,110 - INFO - Loading Whisper model: base
+2025-07-28 19:59:46,253 - INFO - 127.0.0.1 - - [28/Jul/2025 19:59:46] "GET /api/job-status/7ccf1d4e-027e-4630-8455-37a209091f3e HTTP/1.1" 200 -
+2025-07-28 19:59:46,605 - WARNING - C:\Python311\Lib\site-packages\whisper\__init__.py:150: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(fp, map_location=device)
+
+2025-07-28 19:59:47,275 - INFO - 127.0.0.1 - - [28/Jul/2025 19:59:47] "GET /api/job-status/7ccf1d4e-027e-4630-8455-37a209091f3e HTTP/1.1" 200 -
+2025-07-28 19:59:47,979 - INFO - Successfully loaded Whisper model: base
+2025-07-28 19:59:48,300 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 19:59:48,300 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-28 19:59:48,615 - INFO - 127.0.0.1 - - [28/Jul/2025 19:59:48] "GET /api/job-status/7ccf1d4e-027e-4630-8455-37a209091f3e HTTP/1.1" 200 -
+2025-07-28 19:59:49,372 - INFO - Transcribing in language: en
+2025-07-28 19:59:49,373 - INFO - Starting transcription of: outputs\7ccf1d4e-027e-4630-8455-37a209091f3e\extracted_audio.wav
+2025-07-28 19:59:49,390 - WARNING - C:\Python311\Lib\site-packages\whisper\transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-07-28 19:59:52,007 - INFO - 127.0.0.1 - - [28/Jul/2025 19:59:52] "GET /api/job-status/7ccf1d4e-027e-4630-8455-37a209091f3e HTTP/1.1" 200 -
+2025-07-28 19:59:54,042 - INFO - 127.0.0.1 - - [28/Jul/2025 19:59:54] "GET /api/job-status/7ccf1d4e-027e-4630-8455-37a209091f3e HTTP/1.1" 200 -
+2025-07-28 19:59:55,730 - INFO - 127.0.0.1 - - [28/Jul/2025 19:59:55] "GET /api/job-status/7ccf1d4e-027e-4630-8455-37a209091f3e HTTP/1.1" 200 -
+2025-07-28 19:59:58,056 - INFO - 127.0.0.1 - - [28/Jul/2025 19:59:58] "GET /api/job-status/7ccf1d4e-027e-4630-8455-37a209091f3e HTTP/1.1" 200 -
+2025-07-28 19:59:59,747 - INFO - 127.0.0.1 - - [28/Jul/2025 19:59:59] "GET /api/job-status/7ccf1d4e-027e-4630-8455-37a209091f3e HTTP/1.1" 200 -
+2025-07-28 20:00:02,063 - INFO - 127.0.0.1 - - [28/Jul/2025 20:00:02] "GET /api/job-status/7ccf1d4e-027e-4630-8455-37a209091f3e HTTP/1.1" 200 -
+2025-07-28 20:00:05,145 - INFO - 127.0.0.1 - - [28/Jul/2025 20:00:05] "GET /api/job-status/7ccf1d4e-027e-4630-8455-37a209091f3e HTTP/1.1" 200 -
+2025-07-28 20:00:06,735 - INFO - 127.0.0.1 - - [28/Jul/2025 20:00:06] "GET /api/job-status/7ccf1d4e-027e-4630-8455-37a209091f3e HTTP/1.1" 200 -
+2025-07-28 20:00:09,109 - INFO - 127.0.0.1 - - [28/Jul/2025 20:00:09] "GET /api/job-status/7ccf1d4e-027e-4630-8455-37a209091f3e HTTP/1.1" 200 -
+2025-07-28 20:00:13,022 - INFO - 127.0.0.1 - - [28/Jul/2025 20:00:13] "GET /api/job-status/7ccf1d4e-027e-4630-8455-37a209091f3e HTTP/1.1" 200 -
+2025-07-28 20:00:15,062 - INFO - 127.0.0.1 - - [28/Jul/2025 20:00:15] "GET /api/job-status/7ccf1d4e-027e-4630-8455-37a209091f3e HTTP/1.1" 200 -
+2025-07-28 20:00:16,751 - INFO - 127.0.0.1 - - [28/Jul/2025 20:00:16] "GET /api/job-status/7ccf1d4e-027e-4630-8455-37a209091f3e HTTP/1.1" 200 -
+2025-07-28 20:00:18,603 - INFO - Transcription completed in 29.2 seconds
+2025-07-28 20:00:18,605 - INFO - Generated SRT with 21 segments
+2025-07-28 20:00:19,058 - INFO - 127.0.0.1 - - [28/Jul/2025 20:00:19] "GET /api/job-status/7ccf1d4e-027e-4630-8455-37a209091f3e HTTP/1.1" 200 -
+2025-07-28 20:00:21,641 - INFO - 127.0.0.1 - - [28/Jul/2025 20:00:21] "GET /api/job-status/7ccf1d4e-027e-4630-8455-37a209091f3e HTTP/1.1" 200 -
+2025-07-28 20:00:24,747 - INFO - Job 7ccf1d4e-027e-4630-8455-37a209091f3e: Completed - Video processing completed successfully! (100%)
+2025-07-28 20:00:24,907 - INFO - 127.0.0.1 - - [28/Jul/2025 20:00:24] "GET /api/job-status/7ccf1d4e-027e-4630-8455-37a209091f3e HTTP/1.1" 200 -
+2025-07-28 20:10:31,255 - INFO - Job 6658fcc3-d880-4060-8597-366501505814: Initializing - Starting video processing (0%)
+2025-07-28 20:10:31,265 - INFO - 127.0.0.1 - - [28/Jul/2025 20:10:31] "POST /api/process-video HTTP/1.1" 200 -
+2025-07-28 20:10:31,279 - INFO - Processing video: uploads\1753713631_videoplayback_7_1.mp4 (4.6MB)
+2025-07-28 20:10:31,290 - INFO - 127.0.0.1 - - [28/Jul/2025 20:10:31] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:10:31,293 - WARNING - For better Hindi/Hinglish accuracy, consider using 'small' or larger models
+2025-07-28 20:10:31,298 - INFO - Loading Whisper model: base
+2025-07-28 20:10:31,777 - WARNING - C:\Python311\Lib\site-packages\whisper\__init__.py:150: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(fp, map_location=device)
+
+2025-07-28 20:10:32,627 - INFO - 127.0.0.1 - - [28/Jul/2025 20:10:32] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:10:33,363 - INFO - Successfully loaded Whisper model: base
+2025-07-28 20:10:33,647 - INFO - 127.0.0.1 - - [28/Jul/2025 20:10:33] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:10:33,662 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:10:33,663 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-28 20:10:34,233 - INFO - Transcribing in language: hi
+2025-07-28 20:10:34,234 - INFO - Starting transcription of: outputs\6658fcc3-d880-4060-8597-366501505814\extracted_audio.wav
+2025-07-28 20:10:34,253 - WARNING - C:\Python311\Lib\site-packages\whisper\transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-07-28 20:10:35,023 - INFO - 127.0.0.1 - - [28/Jul/2025 20:10:35] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:10:36,737 - INFO - 127.0.0.1 - - [28/Jul/2025 20:10:36] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:10:38,889 - INFO - 127.0.0.1 - - [28/Jul/2025 20:10:38] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:10:40,206 - INFO - 127.0.0.1 - - [28/Jul/2025 20:10:40] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:10:41,218 - INFO - 127.0.0.1 - - [28/Jul/2025 20:10:41] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:10:42,539 - INFO - 127.0.0.1 - - [28/Jul/2025 20:10:42] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:10:43,560 - INFO - 127.0.0.1 - - [28/Jul/2025 20:10:43] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:10:44,893 - INFO - 127.0.0.1 - - [28/Jul/2025 20:10:44] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:10:45,912 - INFO - 127.0.0.1 - - [28/Jul/2025 20:10:45] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:10:47,253 - INFO - 127.0.0.1 - - [28/Jul/2025 20:10:47] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:10:48,276 - INFO - 127.0.0.1 - - [28/Jul/2025 20:10:48] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:10:49,610 - INFO - 127.0.0.1 - - [28/Jul/2025 20:10:49] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:10:50,621 - INFO - 127.0.0.1 - - [28/Jul/2025 20:10:50] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:10:51,956 - INFO - 127.0.0.1 - - [28/Jul/2025 20:10:51] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:10:52,980 - INFO - 127.0.0.1 - - [28/Jul/2025 20:10:52] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:10:54,294 - INFO - 127.0.0.1 - - [28/Jul/2025 20:10:54] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:10:55,306 - INFO - 127.0.0.1 - - [28/Jul/2025 20:10:55] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:10:56,644 - INFO - 127.0.0.1 - - [28/Jul/2025 20:10:56] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:10:57,661 - INFO - 127.0.0.1 - - [28/Jul/2025 20:10:57] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:10:58,994 - INFO - 127.0.0.1 - - [28/Jul/2025 20:10:58] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:11:00,012 - INFO - 127.0.0.1 - - [28/Jul/2025 20:11:00] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:11:01,339 - INFO - 127.0.0.1 - - [28/Jul/2025 20:11:01] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:11:02,349 - INFO - 127.0.0.1 - - [28/Jul/2025 20:11:02] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:11:03,661 - INFO - 127.0.0.1 - - [28/Jul/2025 20:11:03] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:11:04,674 - INFO - 127.0.0.1 - - [28/Jul/2025 20:11:04] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:11:05,997 - INFO - 127.0.0.1 - - [28/Jul/2025 20:11:05] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:11:07,012 - INFO - 127.0.0.1 - - [28/Jul/2025 20:11:07] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:11:08,335 - INFO - 127.0.0.1 - - [28/Jul/2025 20:11:08] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:11:09,345 - INFO - 127.0.0.1 - - [28/Jul/2025 20:11:09] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:11:10,667 - INFO - 127.0.0.1 - - [28/Jul/2025 20:11:10] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:11:11,679 - INFO - 127.0.0.1 - - [28/Jul/2025 20:11:11] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:11:13,013 - INFO - 127.0.0.1 - - [28/Jul/2025 20:11:13] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:11:14,023 - INFO - 127.0.0.1 - - [28/Jul/2025 20:11:14] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:11:15,349 - INFO - 127.0.0.1 - - [28/Jul/2025 20:11:15] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:11:16,360 - INFO - 127.0.0.1 - - [28/Jul/2025 20:11:16] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:11:17,038 - INFO - Transcription completed in 42.8 seconds
+2025-07-28 20:11:17,047 - INFO - Generated SRT with 3 segments
+2025-07-28 20:11:17,704 - INFO - 127.0.0.1 - - [28/Jul/2025 20:11:17] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:11:18,723 - INFO - 127.0.0.1 - - [28/Jul/2025 20:11:18] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:11:20,048 - INFO - 127.0.0.1 - - [28/Jul/2025 20:11:20] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:11:21,057 - INFO - 127.0.0.1 - - [28/Jul/2025 20:11:21] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:11:22,044 - INFO - Job 6658fcc3-d880-4060-8597-366501505814: Completed - Video processing completed successfully! (100%)
+2025-07-28 20:11:22,379 - INFO - 127.0.0.1 - - [28/Jul/2025 20:11:22] "GET /api/job-status/6658fcc3-d880-4060-8597-366501505814 HTTP/1.1" 200 -
+2025-07-28 20:16:18,516 - INFO - Job 8d249194-30bd-4b00-91d1-c13dc6b6782b: Initializing - Starting video processing (0%)
+2025-07-28 20:16:18,521 - INFO - 127.0.0.1 - - [28/Jul/2025 20:16:18] "POST /api/process-video HTTP/1.1" 200 -
+2025-07-28 20:16:18,531 - INFO - Processing video: uploads\1753713978_A.mp4 (1.6MB)
+2025-07-28 20:16:18,541 - WARNING - For better Hindi/Hinglish accuracy, consider using 'small' or larger models
+2025-07-28 20:16:18,543 - INFO - Loading Whisper model: base
+2025-07-28 20:16:18,674 - INFO - 127.0.0.1 - - [28/Jul/2025 20:16:18] "GET /api/job-status/8d249194-30bd-4b00-91d1-c13dc6b6782b HTTP/1.1" 200 -
+2025-07-28 20:16:19,691 - INFO - 127.0.0.1 - - [28/Jul/2025 20:16:19] "GET /api/job-status/8d249194-30bd-4b00-91d1-c13dc6b6782b HTTP/1.1" 200 -
+2025-07-28 20:16:20,232 - INFO - Successfully loaded Whisper model: base
+2025-07-28 20:16:20,403 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:16:20,403 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-28 20:16:21,012 - INFO - 127.0.0.1 - - [28/Jul/2025 20:16:21] "GET /api/job-status/8d249194-30bd-4b00-91d1-c13dc6b6782b HTTP/1.1" 200 -
+2025-07-28 20:16:22,024 - INFO - 127.0.0.1 - - [28/Jul/2025 20:16:22] "GET /api/job-status/8d249194-30bd-4b00-91d1-c13dc6b6782b HTTP/1.1" 200 -
+2025-07-28 20:16:22,160 - WARNING - Language detection failed: DecodingOptions.__init__() got an unexpected keyword argument 'duration'. Defaulting to hinglish.
+2025-07-28 20:16:22,161 - INFO - Using detected language: hi for hinglish
+2025-07-28 20:16:22,161 - INFO - Transcribing in language: hi
+2025-07-28 20:16:22,161 - INFO - Starting transcription of: outputs\8d249194-30bd-4b00-91d1-c13dc6b6782b\extracted_audio.wav
+2025-07-28 20:16:24,058 - INFO - 127.0.0.1 - - [28/Jul/2025 20:16:24] "GET /api/job-status/8d249194-30bd-4b00-91d1-c13dc6b6782b HTTP/1.1" 200 -
+2025-07-28 20:16:25,075 - INFO - 127.0.0.1 - - [28/Jul/2025 20:16:25] "GET /api/job-status/8d249194-30bd-4b00-91d1-c13dc6b6782b HTTP/1.1" 200 -
+2025-07-28 20:16:26,407 - INFO - 127.0.0.1 - - [28/Jul/2025 20:16:26] "GET /api/job-status/8d249194-30bd-4b00-91d1-c13dc6b6782b HTTP/1.1" 200 -
+2025-07-28 20:16:27,419 - INFO - 127.0.0.1 - - [28/Jul/2025 20:16:27] "GET /api/job-status/8d249194-30bd-4b00-91d1-c13dc6b6782b HTTP/1.1" 200 -
+2025-07-28 20:16:28,751 - INFO - 127.0.0.1 - - [28/Jul/2025 20:16:28] "GET /api/job-status/8d249194-30bd-4b00-91d1-c13dc6b6782b HTTP/1.1" 200 -
+2025-07-28 20:16:29,763 - INFO - 127.0.0.1 - - [28/Jul/2025 20:16:29] "GET /api/job-status/8d249194-30bd-4b00-91d1-c13dc6b6782b HTTP/1.1" 200 -
+2025-07-28 20:16:31,089 - INFO - 127.0.0.1 - - [28/Jul/2025 20:16:31] "GET /api/job-status/8d249194-30bd-4b00-91d1-c13dc6b6782b HTTP/1.1" 200 -
+2025-07-28 20:16:31,744 - INFO - Transcription completed in 9.6 seconds
+2025-07-28 20:16:31,746 - INFO - Generated SRT with 11 segments
+2025-07-28 20:16:32,104 - INFO - 127.0.0.1 - - [28/Jul/2025 20:16:32] "GET /api/job-status/8d249194-30bd-4b00-91d1-c13dc6b6782b HTTP/1.1" 200 -
+2025-07-28 20:16:34,739 - INFO - 127.0.0.1 - - [28/Jul/2025 20:16:34] "GET /api/job-status/8d249194-30bd-4b00-91d1-c13dc6b6782b HTTP/1.1" 200 -
+2025-07-28 20:16:34,901 - INFO - Job 8d249194-30bd-4b00-91d1-c13dc6b6782b: Completed - Video processing completed successfully! (100%)
+2025-07-28 20:16:35,752 - INFO - 127.0.0.1 - - [28/Jul/2025 20:16:35] "GET /api/job-status/8d249194-30bd-4b00-91d1-c13dc6b6782b HTTP/1.1" 200 -
+2025-07-28 20:25:18,724 - INFO - Job e74f586f-31c8-44f7-a466-508f62f9c39b: Initializing - Starting video processing (0%)
+2025-07-28 20:25:18,734 - INFO - 127.0.0.1 - - [28/Jul/2025 20:25:18] "POST /api/process-video HTTP/1.1" 200 -
+2025-07-28 20:25:18,801 - INFO - Processing video: uploads\1753714518_A.mp4 (1.6MB)
+2025-07-28 20:25:18,804 - WARNING - For better Hindi/Hinglish accuracy, consider using 'small' or larger models
+2025-07-28 20:25:18,806 - INFO - Loading Whisper model: base
+2025-07-28 20:25:18,818 - INFO - 127.0.0.1 - - [28/Jul/2025 20:25:18] "GET /api/job-status/e74f586f-31c8-44f7-a466-508f62f9c39b HTTP/1.1" 200 -
+2025-07-28 20:25:20,159 - INFO - 127.0.0.1 - - [28/Jul/2025 20:25:20] "GET /api/job-status/e74f586f-31c8-44f7-a466-508f62f9c39b HTTP/1.1" 200 -
+2025-07-28 20:25:21,514 - INFO - 127.0.0.1 - - [28/Jul/2025 20:25:21] "GET /api/job-status/e74f586f-31c8-44f7-a466-508f62f9c39b HTTP/1.1" 200 -
+2025-07-28 20:25:22,288 - INFO - Successfully loaded Whisper model: base
+2025-07-28 20:25:22,534 - INFO - 127.0.0.1 - - [28/Jul/2025 20:25:22] "GET /api/job-status/e74f586f-31c8-44f7-a466-508f62f9c39b HTTP/1.1" 200 -
+2025-07-28 20:25:22,796 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:25:22,805 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-28 20:25:24,151 - INFO - 127.0.0.1 - - [28/Jul/2025 20:25:24] "GET /api/job-status/e74f586f-31c8-44f7-a466-508f62f9c39b HTTP/1.1" 200 -
+2025-07-28 20:25:25,663 - WARNING - Language detection failed: DecodingOptions.__init__() got an unexpected keyword argument 'duration'. Defaulting to hinglish.
+2025-07-28 20:25:25,663 - INFO - Using detected language: hi for hinglish
+2025-07-28 20:25:25,663 - INFO - Transcribing in language: hi
+2025-07-28 20:25:25,663 - INFO - Starting transcription of: outputs\e74f586f-31c8-44f7-a466-508f62f9c39b\extracted_audio.wav
+2025-07-28 20:25:25,673 - INFO - 127.0.0.1 - - [28/Jul/2025 20:25:25] "GET /api/job-status/e74f586f-31c8-44f7-a466-508f62f9c39b HTTP/1.1" 200 -
+2025-07-28 20:25:28,043 - INFO - 127.0.0.1 - - [28/Jul/2025 20:25:28] "GET /api/job-status/e74f586f-31c8-44f7-a466-508f62f9c39b HTTP/1.1" 200 -
+2025-07-28 20:25:29,674 - INFO - 127.0.0.1 - - [28/Jul/2025 20:25:29] "GET /api/job-status/e74f586f-31c8-44f7-a466-508f62f9c39b HTTP/1.1" 200 -
+2025-07-28 20:25:32,206 - INFO - 127.0.0.1 - - [28/Jul/2025 20:25:32] "GET /api/job-status/e74f586f-31c8-44f7-a466-508f62f9c39b HTTP/1.1" 200 -
+2025-07-28 20:25:33,522 - INFO - 127.0.0.1 - - [28/Jul/2025 20:25:33] "GET /api/job-status/e74f586f-31c8-44f7-a466-508f62f9c39b HTTP/1.1" 200 -
+2025-07-28 20:25:35,135 - INFO - 127.0.0.1 - - [28/Jul/2025 20:25:35] "GET /api/job-status/e74f586f-31c8-44f7-a466-508f62f9c39b HTTP/1.1" 200 -
+2025-07-28 20:25:36,150 - INFO - 127.0.0.1 - - [28/Jul/2025 20:25:36] "GET /api/job-status/e74f586f-31c8-44f7-a466-508f62f9c39b HTTP/1.1" 200 -
+2025-07-28 20:25:37,702 - INFO - 127.0.0.1 - - [28/Jul/2025 20:25:37] "GET /api/job-status/e74f586f-31c8-44f7-a466-508f62f9c39b HTTP/1.1" 200 -
+2025-07-28 20:25:38,718 - INFO - 127.0.0.1 - - [28/Jul/2025 20:25:38] "GET /api/job-status/e74f586f-31c8-44f7-a466-508f62f9c39b HTTP/1.1" 200 -
+2025-07-28 20:25:40,844 - INFO - 127.0.0.1 - - [28/Jul/2025 20:25:40] "GET /api/job-status/e74f586f-31c8-44f7-a466-508f62f9c39b HTTP/1.1" 200 -
+2025-07-28 20:25:42,280 - INFO - 127.0.0.1 - - [28/Jul/2025 20:25:42] "GET /api/job-status/e74f586f-31c8-44f7-a466-508f62f9c39b HTTP/1.1" 200 -
+2025-07-28 20:25:46,565 - INFO - 127.0.0.1 - - [28/Jul/2025 20:25:46] "GET /api/job-status/e74f586f-31c8-44f7-a466-508f62f9c39b HTTP/1.1" 200 -
+2025-07-28 20:25:47,580 - INFO - 127.0.0.1 - - [28/Jul/2025 20:25:47] "GET /api/job-status/e74f586f-31c8-44f7-a466-508f62f9c39b HTTP/1.1" 200 -
+2025-07-28 20:25:48,948 - INFO - 127.0.0.1 - - [28/Jul/2025 20:25:48] "GET /api/job-status/e74f586f-31c8-44f7-a466-508f62f9c39b HTTP/1.1" 200 -
+2025-07-28 20:25:49,979 - INFO - 127.0.0.1 - - [28/Jul/2025 20:25:49] "GET /api/job-status/e74f586f-31c8-44f7-a466-508f62f9c39b HTTP/1.1" 200 -
+2025-07-28 20:25:51,394 - INFO - 127.0.0.1 - - [28/Jul/2025 20:25:51] "GET /api/job-status/e74f586f-31c8-44f7-a466-508f62f9c39b HTTP/1.1" 200 -
+2025-07-28 20:25:52,411 - INFO - 127.0.0.1 - - [28/Jul/2025 20:25:52] "GET /api/job-status/e74f586f-31c8-44f7-a466-508f62f9c39b HTTP/1.1" 200 -
+2025-07-28 20:25:52,769 - INFO - Transcription completed in 27.0 seconds
+2025-07-28 20:25:52,784 - INFO - Generated SRT with 11 segments
+2025-07-28 20:25:53,745 - INFO - 127.0.0.1 - - [28/Jul/2025 20:25:53] "GET /api/job-status/e74f586f-31c8-44f7-a466-508f62f9c39b HTTP/1.1" 200 -
+2025-07-28 20:25:56,877 - INFO - 127.0.0.1 - - [28/Jul/2025 20:25:56] "GET /api/job-status/e74f586f-31c8-44f7-a466-508f62f9c39b HTTP/1.1" 200 -
+2025-07-28 20:25:57,007 - INFO - Job e74f586f-31c8-44f7-a466-508f62f9c39b: Completed - Video processing completed successfully! (100%)
+2025-07-28 20:25:57,892 - INFO - 127.0.0.1 - - [28/Jul/2025 20:25:57] "GET /api/job-status/e74f586f-31c8-44f7-a466-508f62f9c39b HTTP/1.1" 200 -
+2025-07-28 20:27:01,187 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\flask\\app.py', reloading
+2025-07-28 20:27:01,239 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\werkzeug\\serving.py', reloading
+2025-07-28 20:27:01,321 - INFO -  * Detected change in 'C:\\Python311\\Lib\\socketserver.py', reloading
+2025-07-28 20:27:06,831 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-28 20:27:22,079 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:27:22,080 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-28 20:27:22,196 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:27:22,199 - INFO - Dependency check results:
+2025-07-28 20:27:22,200 - INFO -   whisper: Available
+2025-07-28 20:27:22,200 - INFO -   moviepy: Available
+2025-07-28 20:27:22,200 - INFO -   opencv: Available
+2025-07-28 20:27:22,202 - INFO -   ffmpeg: Available
+2025-07-28 20:27:22,261 - WARNING -  * Debugger is active!
+2025-07-28 20:27:22,271 - INFO -  * Debugger PIN: 107-557-390
+2025-07-28 20:37:38,463 - INFO -  * Detected change in 'C:\\Users\\nikhil\\Desktop\\vidiQ\\subtile\\subtitle 1\\python\\script.py', reloading
+2025-07-28 20:37:38,479 - INFO -  * Detected change in 'C:\\Users\\nikhil\\Desktop\\vidiQ\\subtile\\subtitle 1\\python\\script.py', reloading
+2025-07-28 20:37:42,224 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-28 20:37:54,463 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:37:54,464 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-28 20:37:54,563 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:37:54,563 - INFO - Dependency check results:
+2025-07-28 20:37:54,563 - INFO -   whisper: Available
+2025-07-28 20:37:54,564 - INFO -   moviepy: Available
+2025-07-28 20:37:54,564 - INFO -   opencv: Available
+2025-07-28 20:37:54,564 - INFO -   ffmpeg: Available
+2025-07-28 20:37:54,598 - WARNING -  * Debugger is active!
+2025-07-28 20:37:54,606 - INFO -  * Debugger PIN: 107-557-390
+2025-07-28 20:38:51,200 - INFO -  * Detected change in 'C:\\Users\\nikhil\\Desktop\\vidiQ\\subtile\\subtitle 1\\python\\script.py', reloading
+2025-07-28 20:38:52,682 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-28 20:38:59,291 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:38:59,292 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-28 20:38:59,376 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:38:59,376 - INFO - Dependency check results:
+2025-07-28 20:38:59,376 - INFO -   whisper: Available
+2025-07-28 20:38:59,376 - INFO -   moviepy: Available
+2025-07-28 20:38:59,376 - INFO -   opencv: Available
+2025-07-28 20:38:59,378 - INFO -   ffmpeg: Available
+2025-07-28 20:38:59,399 - WARNING -  * Debugger is active!
+2025-07-28 20:38:59,406 - INFO -  * Debugger PIN: 107-557-390
+2025-07-28 20:39:29,485 - INFO -  * Detected change in 'C:\\Users\\nikhil\\Desktop\\vidiQ\\subtile\\subtitle 1\\python\\script.py', reloading
+2025-07-28 20:39:31,002 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-28 20:39:38,279 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:39:38,279 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-28 20:39:38,364 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:39:38,365 - INFO - Dependency check results:
+2025-07-28 20:39:38,365 - INFO -   whisper: Available
+2025-07-28 20:39:38,365 - INFO -   moviepy: Available
+2025-07-28 20:39:38,365 - INFO -   opencv: Available
+2025-07-28 20:39:38,366 - INFO -   ffmpeg: Available
+2025-07-28 20:39:38,384 - WARNING -  * Debugger is active!
+2025-07-28 20:39:38,390 - INFO -  * Debugger PIN: 107-557-390
+2025-07-28 20:42:10,007 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:42:10,008 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-28 20:42:10,101 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:42:10,101 - INFO - Dependency check results:
+2025-07-28 20:42:10,103 - INFO -   whisper: Available
+2025-07-28 20:42:10,103 - INFO -   moviepy: Available
+2025-07-28 20:42:10,103 - INFO -   opencv: Available
+2025-07-28 20:42:10,103 - INFO -   ffmpeg: Available
+2025-07-28 20:42:10,144 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.241.227:5000
+2025-07-28 20:42:10,145 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-28 20:42:10,161 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-28 20:42:18,408 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:42:18,409 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-28 20:42:18,511 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:42:18,512 - INFO - Dependency check results:
+2025-07-28 20:42:18,512 - INFO -   whisper: Available
+2025-07-28 20:42:18,513 - INFO -   moviepy: Available
+2025-07-28 20:42:18,513 - INFO -   opencv: Available
+2025-07-28 20:42:18,513 - INFO -   ffmpeg: Available
+2025-07-28 20:42:18,548 - WARNING -  * Debugger is active!
+2025-07-28 20:42:18,559 - INFO -  * Debugger PIN: 107-557-390
+2025-07-28 20:43:54,834 - INFO - Job 02f3f86b-85a8-4a2b-84c4-b16cd4d909c4: Initializing - Starting video processing (0%)
+2025-07-28 20:43:54,835 - INFO - 127.0.0.1 - - [28/Jul/2025 20:43:54] "POST /api/process-video HTTP/1.1" 200 -
+2025-07-28 20:43:54,836 - INFO - Processing video: uploads\1753715634_A.mp4 (1.6MB)
+2025-07-28 20:43:54,849 - WARNING - For better Hindi/Hinglish accuracy, consider using 'small' or larger models
+2025-07-28 20:43:54,851 - INFO - Loading Whisper model: base
+2025-07-28 20:43:55,072 - INFO - 127.0.0.1 - - [28/Jul/2025 20:43:55] "GET /api/job-status/02f3f86b-85a8-4a2b-84c4-b16cd4d909c4 HTTP/1.1" 200 -
+2025-07-28 20:43:55,338 - WARNING - C:\Python311\Lib\site-packages\whisper\__init__.py:150: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(fp, map_location=device)
+
+2025-07-28 20:43:56,098 - INFO - 127.0.0.1 - - [28/Jul/2025 20:43:56] "GET /api/job-status/02f3f86b-85a8-4a2b-84c4-b16cd4d909c4 HTTP/1.1" 200 -
+2025-07-28 20:43:56,846 - INFO - Successfully loaded Whisper model: base
+2025-07-28 20:43:56,992 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:43:56,994 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-28 20:43:57,000 - INFO -  * Detected change in 'C:\\Python311\\Lib\\logging\\__init__.py', reloading
+2025-07-28 20:43:57,013 - INFO -  * Detected change in 'C:\\Python311\\Lib\\encodings\\cp1252.py', reloading
+2025-07-28 20:43:57,401 - INFO - Transcribing in language: en
+2025-07-28 20:43:57,402 - INFO - Starting transcription of: outputs\02f3f86b-85a8-4a2b-84c4-b16cd4d909c4\extracted_audio.wav
+2025-07-28 20:43:57,411 - WARNING - C:\Python311\Lib\site-packages\whisper\transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-07-28 20:43:57,411 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\whisper\\transcribe.py', reloading
+2025-07-28 20:43:57,860 - INFO - 127.0.0.1 - - [28/Jul/2025 20:43:57] "GET /api/job-status/02f3f86b-85a8-4a2b-84c4-b16cd4d909c4 HTTP/1.1" 200 -
+2025-07-28 20:43:59,900 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-28 20:44:08,456 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:44:08,458 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-28 20:44:08,549 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:44:08,549 - INFO - Dependency check results:
+2025-07-28 20:44:08,550 - INFO -   whisper: Available
+2025-07-28 20:44:08,550 - INFO -   moviepy: Available
+2025-07-28 20:44:08,550 - INFO -   opencv: Available
+2025-07-28 20:44:08,550 - INFO -   ffmpeg: Available
+2025-07-28 20:44:08,579 - WARNING -  * Debugger is active!
+2025-07-28 20:44:08,587 - INFO -  * Debugger PIN: 107-557-390
+2025-07-28 20:44:08,771 - INFO - 127.0.0.1 - - [28/Jul/2025 20:44:08] "[33mGET /api/job-status/02f3f86b-85a8-4a2b-84c4-b16cd4d909c4 HTTP/1.1[0m" 404 -
+2025-07-28 20:50:42,825 - INFO -  * Detected change in 'C:\\Users\\nikhil\\Desktop\\vidiQ\\subtile\\subtitle 1\\python\\server.py', reloading
+2025-07-28 20:50:42,848 - INFO -  * Detected change in 'C:\\Users\\nikhil\\Desktop\\vidiQ\\subtile\\subtitle 1\\python\\server.py', reloading
+2025-07-28 20:50:46,863 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-28 20:51:06,524 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:51:06,526 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-28 20:51:06,629 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:51:06,629 - INFO - Dependency check results:
+2025-07-28 20:51:06,629 - INFO -   whisper: Available
+2025-07-28 20:51:06,629 - INFO -   moviepy: Available
+2025-07-28 20:51:06,629 - INFO -   opencv: Available
+2025-07-28 20:51:06,630 - INFO -   ffmpeg: Available
+2025-07-28 20:51:06,676 - WARNING -  * Debugger is active!
+2025-07-28 20:51:06,685 - INFO -  * Debugger PIN: 107-557-390
+2025-07-28 20:53:47,490 - INFO -  * Detected change in 'C:\\Users\\nikhil\\Desktop\\vidiQ\\subtile\\subtitle 1\\python\\server.py', reloading
+2025-07-28 20:53:49,283 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-28 20:53:56,820 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:53:56,821 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-28 20:53:56,912 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:53:56,913 - INFO - Dependency check results:
+2025-07-28 20:53:56,913 - INFO -   whisper: Available
+2025-07-28 20:53:56,914 - INFO -   moviepy: Available
+2025-07-28 20:53:56,914 - INFO -   opencv: Available
+2025-07-28 20:53:56,914 - INFO -   ffmpeg: Available
+2025-07-28 20:53:56,941 - WARNING -  * Debugger is active!
+2025-07-28 20:53:56,948 - INFO -  * Debugger PIN: 107-557-390
+2025-07-28 20:56:21,388 - INFO -  * Detected change in 'C:\\Users\\nikhil\\Desktop\\vidiQ\\subtile\\subtitle 1\\python\\server.py', reloading
+2025-07-28 20:56:23,206 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-28 20:56:37,011 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:56:37,015 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-28 20:56:37,162 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:56:37,164 - INFO - Dependency check results:
+2025-07-28 20:56:37,165 - INFO -   whisper: Available
+2025-07-28 20:56:37,165 - INFO -   moviepy: Available
+2025-07-28 20:56:37,166 - INFO -   opencv: Available
+2025-07-28 20:56:37,166 - INFO -   ffmpeg: Available
+2025-07-28 20:56:37,198 - WARNING -  * Debugger is active!
+2025-07-28 20:56:37,343 - INFO -  * Debugger PIN: 107-557-390
+2025-07-28 20:58:33,949 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:58:33,949 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-28 20:58:34,039 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:58:34,040 - INFO - Dependency check results:
+2025-07-28 20:58:34,040 - INFO -   whisper: Available
+2025-07-28 20:58:34,040 - INFO -   moviepy: Available
+2025-07-28 20:58:34,040 - INFO -   opencv: Available
+2025-07-28 20:58:34,040 - INFO -   ffmpeg: Available
+2025-07-28 20:58:34,085 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.241.227:5000
+2025-07-28 20:58:34,086 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-28 20:58:34,110 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-28 20:58:42,893 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:58:42,894 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-28 20:58:43,000 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:58:43,000 - INFO - Dependency check results:
+2025-07-28 20:58:43,001 - INFO -   whisper: Available
+2025-07-28 20:58:43,001 - INFO -   moviepy: Available
+2025-07-28 20:58:43,001 - INFO -   opencv: Available
+2025-07-28 20:58:43,001 - INFO -   ffmpeg: Available
+2025-07-28 20:58:43,045 - WARNING -  * Debugger is active!
+2025-07-28 20:58:43,058 - INFO -  * Debugger PIN: 107-557-390
+2025-07-28 20:59:13,532 - INFO - Created job 73771c5c-d75e-4e30-a3b9-315ca3a1acc1 for video: A.mp4
+2025-07-28 20:59:13,537 - INFO - Current jobs in memory: ['73771c5c-d75e-4e30-a3b9-315ca3a1acc1']
+2025-07-28 20:59:13,540 - INFO - Job 73771c5c-d75e-4e30-a3b9-315ca3a1acc1: Initializing - Starting video processing (0%)
+2025-07-28 20:59:13,545 - INFO - 127.0.0.1 - - [28/Jul/2025 20:59:13] "POST /api/process-video HTTP/1.1" 200 -
+2025-07-28 20:59:13,560 - INFO - Processing video: uploads\1753716553_A.mp4 (1.6MB)
+2025-07-28 20:59:13,560 - WARNING - For better Hindi/Hinglish accuracy, consider using 'small' or larger models
+2025-07-28 20:59:13,560 - INFO - Loading Whisper model: base
+2025-07-28 20:59:13,688 - INFO - Status request for job: 73771c5c-d75e-4e30-a3b9-315ca3a1acc1
+2025-07-28 20:59:13,689 - INFO - Available jobs: ['73771c5c-d75e-4e30-a3b9-315ca3a1acc1']
+2025-07-28 20:59:13,691 - INFO - Job 73771c5c-d75e-4e30-a3b9-315ca3a1acc1 data: {'progress': 0, 'current_step': 'Initializing', 'message': 'Starting video processing', 'completed': False, 'error': None}
+2025-07-28 20:59:13,692 - INFO - Returning response for job 73771c5c-d75e-4e30-a3b9-315ca3a1acc1: {'type': 'progress', 'progress': 0, 'current_step': 'Initializing', 'message': 'Starting video processing', 'completed': False, 'error': None}
+2025-07-28 20:59:13,700 - INFO - 127.0.0.1 - - [28/Jul/2025 20:59:13] "GET /api/job-status/73771c5c-d75e-4e30-a3b9-315ca3a1acc1 HTTP/1.1" 200 -
+2025-07-28 20:59:13,993 - WARNING - C:\Python311\Lib\site-packages\whisper\__init__.py:150: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(fp, map_location=device)
+
+2025-07-28 20:59:14,726 - INFO - Status request for job: 73771c5c-d75e-4e30-a3b9-315ca3a1acc1
+2025-07-28 20:59:14,726 - INFO - Available jobs: ['73771c5c-d75e-4e30-a3b9-315ca3a1acc1']
+2025-07-28 20:59:14,726 - INFO - Job 73771c5c-d75e-4e30-a3b9-315ca3a1acc1 data: {'progress': 0, 'current_step': 'Initializing', 'message': 'Starting video processing', 'completed': False, 'error': None}
+2025-07-28 20:59:14,727 - INFO - Returning response for job 73771c5c-d75e-4e30-a3b9-315ca3a1acc1: {'type': 'progress', 'progress': 0, 'current_step': 'Initializing', 'message': 'Starting video processing', 'completed': False, 'error': None}
+2025-07-28 20:59:14,730 - INFO - 127.0.0.1 - - [28/Jul/2025 20:59:14] "GET /api/job-status/73771c5c-d75e-4e30-a3b9-315ca3a1acc1 HTTP/1.1" 200 -
+2025-07-28 20:59:16,007 - INFO - Successfully loaded Whisper model: base
+2025-07-28 20:59:16,079 - INFO - Status request for job: 73771c5c-d75e-4e30-a3b9-315ca3a1acc1
+2025-07-28 20:59:16,079 - INFO - Available jobs: ['73771c5c-d75e-4e30-a3b9-315ca3a1acc1']
+2025-07-28 20:59:16,079 - INFO - Job 73771c5c-d75e-4e30-a3b9-315ca3a1acc1 data: {'progress': 0, 'current_step': 'Initializing', 'message': 'Starting video processing', 'completed': False, 'error': None}
+2025-07-28 20:59:16,081 - INFO - Returning response for job 73771c5c-d75e-4e30-a3b9-315ca3a1acc1: {'type': 'progress', 'progress': 0, 'current_step': 'Initializing', 'message': 'Starting video processing', 'completed': False, 'error': None}
+2025-07-28 20:59:16,082 - INFO - 127.0.0.1 - - [28/Jul/2025 20:59:16] "GET /api/job-status/73771c5c-d75e-4e30-a3b9-315ca3a1acc1 HTTP/1.1" 200 -
+2025-07-28 20:59:16,322 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:59:16,322 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-28 20:59:16,682 - WARNING - C:\Python311\Lib\site-packages\whisper\transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-07-28 20:59:17,189 - INFO - Status request for job: 73771c5c-d75e-4e30-a3b9-315ca3a1acc1
+2025-07-28 20:59:17,195 - INFO - Available jobs: ['73771c5c-d75e-4e30-a3b9-315ca3a1acc1']
+2025-07-28 20:59:17,384 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\werkzeug\\debug\\__init__.py', reloading
+2025-07-28 20:59:17,577 - INFO -  * Detected change in 'C:\\Python311\\Lib\\http\\server.py', reloading
+2025-07-28 20:59:17,388 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\werkzeug\\debug\\__init__.py', reloading
+2025-07-28 20:59:17,592 - INFO -  * Detected change in 'C:\\Python311\\Lib\\http\\server.py', reloading
+2025-07-28 20:59:17,634 - INFO - 127.0.0.1 - - [28/Jul/2025 20:59:17] "GET /api/job-status/73771c5c-d75e-4e30-a3b9-315ca3a1acc1 HTTP/1.1" 200 -
+2025-07-28 20:59:18,329 - WARNING - Language detection failed: DecodingOptions.__init__() got an unexpected keyword argument 'duration'. Defaulting to hinglish.
+2025-07-28 20:59:18,329 - INFO - Using detected language: hi for hinglish
+2025-07-28 20:59:18,331 - INFO - Transcribing in language: hi
+2025-07-28 20:59:18,331 - INFO - Starting transcription of: outputs\73771c5c-d75e-4e30-a3b9-315ca3a1acc1\extracted_audio.wav
+2025-07-28 20:59:19,101 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-28 20:59:20,092 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-28 20:59:27,852 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:59:27,853 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-28 20:59:27,937 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:59:27,938 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-28 20:59:27,966 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:59:27,966 - INFO - Dependency check results:
+2025-07-28 20:59:27,968 - INFO -   whisper: Available
+2025-07-28 20:59:27,968 - INFO -   moviepy: Available
+2025-07-28 20:59:27,968 - INFO -   opencv: Available
+2025-07-28 20:59:27,968 - INFO -   ffmpeg: Available
+2025-07-28 20:59:28,014 - WARNING -  * Debugger is active!
+2025-07-28 20:59:28,026 - INFO -  * Debugger PIN: 107-557-390
+2025-07-28 20:59:28,101 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 20:59:28,102 - INFO - Dependency check results:
+2025-07-28 20:59:28,103 - INFO -   whisper: Available
+2025-07-28 20:59:28,104 - INFO -   moviepy: Available
+2025-07-28 20:59:28,104 - INFO -   opencv: Available
+2025-07-28 20:59:28,104 - INFO -   ffmpeg: Available
+2025-07-28 20:59:28,170 - WARNING -  * Debugger is active!
+2025-07-28 20:59:28,192 - INFO -  * Debugger PIN: 107-557-390
+2025-07-28 20:59:28,350 - INFO - Status request for job: 73771c5c-d75e-4e30-a3b9-315ca3a1acc1
+2025-07-28 20:59:28,352 - INFO - Available jobs: []
+2025-07-28 20:59:28,352 - ERROR - Job 73771c5c-d75e-4e30-a3b9-315ca3a1acc1 not found in processing_jobs
+2025-07-28 20:59:28,353 - INFO - 127.0.0.1 - - [28/Jul/2025 20:59:28] "[33mGET /api/job-status/73771c5c-d75e-4e30-a3b9-315ca3a1acc1 HTTP/1.1[0m" 404 -
+2025-07-28 21:02:44,410 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 21:02:44,411 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-28 21:02:44,497 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 21:02:44,497 - INFO - Dependency check results:
+2025-07-28 21:02:44,498 - INFO -   whisper: Available
+2025-07-28 21:02:44,498 - INFO -   moviepy: Available
+2025-07-28 21:02:44,498 - INFO -   opencv: Available
+2025-07-28 21:02:44,498 - INFO -   ffmpeg: Available
+2025-07-28 21:02:44,545 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.241.227:5000
+2025-07-28 21:02:44,546 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-28 21:02:44,563 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-28 21:02:51,772 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 21:02:51,773 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-28 21:02:51,861 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 21:02:51,862 - INFO - Dependency check results:
+2025-07-28 21:02:51,862 - INFO -   whisper: Available
+2025-07-28 21:02:51,862 - INFO -   moviepy: Available
+2025-07-28 21:02:51,863 - INFO -   opencv: Available
+2025-07-28 21:02:51,863 - INFO -   ffmpeg: Available
+2025-07-28 21:02:51,886 - WARNING -  * Debugger is active!
+2025-07-28 21:02:51,892 - INFO -  * Debugger PIN: 107-557-390
+2025-07-28 21:03:33,549 - INFO - Created job aa7ce176-6f91-4642-b42b-99c9cf47fd47 for video: A.mp4
+2025-07-28 21:03:33,551 - INFO - Current jobs in memory: ['aa7ce176-6f91-4642-b42b-99c9cf47fd47']
+2025-07-28 21:03:33,551 - INFO - Job aa7ce176-6f91-4642-b42b-99c9cf47fd47: Initializing - Starting video processing (0%)
+2025-07-28 21:03:33,554 - INFO - 127.0.0.1 - - [28/Jul/2025 21:03:33] "POST /api/process-video HTTP/1.1" 200 -
+2025-07-28 21:03:33,556 - INFO - Processing video: uploads\1753716813_A.mp4 (1.6MB)
+2025-07-28 21:03:33,570 - WARNING - For better Hindi/Hinglish accuracy, consider using 'small' or larger models
+2025-07-28 21:03:33,570 - INFO - Loading Whisper model: base
+2025-07-28 21:03:33,764 - INFO - Status request for job: aa7ce176-6f91-4642-b42b-99c9cf47fd47
+2025-07-28 21:03:33,769 - INFO - Available jobs: ['aa7ce176-6f91-4642-b42b-99c9cf47fd47']
+2025-07-28 21:03:33,770 - INFO - Job aa7ce176-6f91-4642-b42b-99c9cf47fd47 data: {'progress': 0, 'current_step': 'Initializing', 'message': 'Starting video processing', 'completed': False, 'error': None}
+2025-07-28 21:03:33,771 - INFO - Returning response for job aa7ce176-6f91-4642-b42b-99c9cf47fd47: {'type': 'progress', 'progress': 0, 'current_step': 'Initializing', 'message': 'Starting video processing', 'completed': False, 'error': None}
+2025-07-28 21:03:33,773 - INFO - 127.0.0.1 - - [28/Jul/2025 21:03:33] "GET /api/job-status/aa7ce176-6f91-4642-b42b-99c9cf47fd47 HTTP/1.1" 200 -
+2025-07-28 21:03:34,072 - WARNING - C:\Python311\Lib\site-packages\whisper\__init__.py:150: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(fp, map_location=device)
+
+2025-07-28 21:03:34,785 - INFO - Status request for job: aa7ce176-6f91-4642-b42b-99c9cf47fd47
+2025-07-28 21:03:34,786 - INFO - Available jobs: ['aa7ce176-6f91-4642-b42b-99c9cf47fd47']
+2025-07-28 21:03:34,786 - INFO - Job aa7ce176-6f91-4642-b42b-99c9cf47fd47 data: {'progress': 0, 'current_step': 'Initializing', 'message': 'Starting video processing', 'completed': False, 'error': None}
+2025-07-28 21:03:34,787 - INFO - Returning response for job aa7ce176-6f91-4642-b42b-99c9cf47fd47: {'type': 'progress', 'progress': 0, 'current_step': 'Initializing', 'message': 'Starting video processing', 'completed': False, 'error': None}
+2025-07-28 21:03:34,788 - INFO - 127.0.0.1 - - [28/Jul/2025 21:03:34] "GET /api/job-status/aa7ce176-6f91-4642-b42b-99c9cf47fd47 HTTP/1.1" 200 -
+2025-07-28 21:03:35,668 - INFO - Successfully loaded Whisper model: base
+2025-07-28 21:03:35,832 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 21:03:35,833 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-28 21:03:36,243 - INFO - Transcribing in language: en
+2025-07-28 21:03:36,246 - INFO - Starting transcription of: outputs\aa7ce176-6f91-4642-b42b-99c9cf47fd47\extracted_audio.wav
+2025-07-28 21:03:36,254 - WARNING - C:\Python311\Lib\site-packages\whisper\transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-07-28 21:03:36,741 - INFO - Status request for job: aa7ce176-6f91-4642-b42b-99c9cf47fd47
+2025-07-28 21:03:36,745 - INFO - Available jobs: ['aa7ce176-6f91-4642-b42b-99c9cf47fd47']
+2025-07-28 21:03:37,016 - INFO - 127.0.0.1 - - [28/Jul/2025 21:03:37] "GET /api/job-status/aa7ce176-6f91-4642-b42b-99c9cf47fd47 HTTP/1.1" 200 -
+2025-07-28 21:03:38,419 - INFO - Status request for job: aa7ce176-6f91-4642-b42b-99c9cf47fd47
+2025-07-28 21:03:38,420 - INFO - Available jobs: ['aa7ce176-6f91-4642-b42b-99c9cf47fd47']
+2025-07-28 21:03:38,445 - INFO - 127.0.0.1 - - [28/Jul/2025 21:03:38] "GET /api/job-status/aa7ce176-6f91-4642-b42b-99c9cf47fd47 HTTP/1.1" 200 -
+2025-07-28 21:03:40,355 - INFO - Status request for job: aa7ce176-6f91-4642-b42b-99c9cf47fd47
+2025-07-28 21:03:40,356 - INFO - Available jobs: ['aa7ce176-6f91-4642-b42b-99c9cf47fd47']
+2025-07-28 21:03:40,409 - INFO - 127.0.0.1 - - [28/Jul/2025 21:03:40] "GET /api/job-status/aa7ce176-6f91-4642-b42b-99c9cf47fd47 HTTP/1.1" 200 -
+2025-07-28 21:03:41,427 - INFO - Status request for job: aa7ce176-6f91-4642-b42b-99c9cf47fd47
+2025-07-28 21:03:41,427 - INFO - Available jobs: ['aa7ce176-6f91-4642-b42b-99c9cf47fd47']
+2025-07-28 21:03:41,447 - INFO - 127.0.0.1 - - [28/Jul/2025 21:03:41] "GET /api/job-status/aa7ce176-6f91-4642-b42b-99c9cf47fd47 HTTP/1.1" 200 -
+2025-07-28 21:03:42,775 - INFO - Status request for job: aa7ce176-6f91-4642-b42b-99c9cf47fd47
+2025-07-28 21:03:42,778 - INFO - Available jobs: ['aa7ce176-6f91-4642-b42b-99c9cf47fd47']
+2025-07-28 21:03:42,822 - INFO - 127.0.0.1 - - [28/Jul/2025 21:03:42] "GET /api/job-status/aa7ce176-6f91-4642-b42b-99c9cf47fd47 HTTP/1.1" 200 -
+2025-07-28 21:03:43,842 - INFO - Status request for job: aa7ce176-6f91-4642-b42b-99c9cf47fd47
+2025-07-28 21:03:43,848 - INFO - Available jobs: ['aa7ce176-6f91-4642-b42b-99c9cf47fd47']
+2025-07-28 21:03:43,892 - INFO - 127.0.0.1 - - [28/Jul/2025 21:03:43] "GET /api/job-status/aa7ce176-6f91-4642-b42b-99c9cf47fd47 HTTP/1.1" 200 -
+2025-07-28 21:03:45,214 - INFO - Status request for job: aa7ce176-6f91-4642-b42b-99c9cf47fd47
+2025-07-28 21:03:45,215 - INFO - Available jobs: ['aa7ce176-6f91-4642-b42b-99c9cf47fd47']
+2025-07-28 21:03:45,289 - INFO - 127.0.0.1 - - [28/Jul/2025 21:03:45] "GET /api/job-status/aa7ce176-6f91-4642-b42b-99c9cf47fd47 HTTP/1.1" 200 -
+2025-07-28 21:03:45,856 - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\whisper\\timing.py', reloading
+2025-07-28 21:03:45,980 - INFO -  * Detected change in 'C:\\Users\\nikhil\\AppData\\Roaming\\Python\\Python311\\site-packages\\numba\\np\\arrayobj.py', reloading
+2025-07-28 21:03:46,303 - INFO - Status request for job: aa7ce176-6f91-4642-b42b-99c9cf47fd47
+2025-07-28 21:03:46,303 - INFO - Available jobs: ['aa7ce176-6f91-4642-b42b-99c9cf47fd47']
+2025-07-28 21:03:46,324 - INFO - 127.0.0.1 - - [28/Jul/2025 21:03:46] "GET /api/job-status/aa7ce176-6f91-4642-b42b-99c9cf47fd47 HTTP/1.1" 200 -
+2025-07-28 21:03:48,267 - INFO -  * Restarting with watchdog (windowsapi)
+2025-07-28 21:03:57,701 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 21:03:57,701 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-28 21:03:57,794 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 21:03:57,794 - INFO - Dependency check results:
+2025-07-28 21:03:57,794 - INFO -   whisper: Available
+2025-07-28 21:03:57,795 - INFO -   moviepy: Available
+2025-07-28 21:03:57,795 - INFO -   opencv: Available
+2025-07-28 21:03:57,795 - INFO -   ffmpeg: Available
+2025-07-28 21:03:57,820 - WARNING -  * Debugger is active!
+2025-07-28 21:03:57,830 - INFO -  * Debugger PIN: 107-557-390
+2025-07-28 21:03:57,948 - INFO - Status request for job: aa7ce176-6f91-4642-b42b-99c9cf47fd47
+2025-07-28 21:03:57,949 - INFO - Available jobs: []
+2025-07-28 21:03:57,949 - ERROR - Job aa7ce176-6f91-4642-b42b-99c9cf47fd47 not found in processing_jobs
+2025-07-28 21:03:57,950 - INFO - 127.0.0.1 - - [28/Jul/2025 21:03:57] "[33mGET /api/job-status/aa7ce176-6f91-4642-b42b-99c9cf47fd47 HTTP/1.1[0m" 404 -
+2025-07-28 21:07:41,054 - INFO -  * Detected change in 'C:\\Users\\nikhil\\Desktop\\vidiQ\\subtile\\subtitle 1\\python\\server.py', reloading
+2025-07-28 21:44:05,425 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 21:44:05,426 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-28 21:44:05,602 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 21:44:05,602 - INFO - Dependency check results:
+2025-07-28 21:44:05,603 - INFO -   whisper: Available
+2025-07-28 21:44:05,603 - INFO -   moviepy: Available
+2025-07-28 21:44:05,604 - INFO -   opencv: Available
+2025-07-28 21:44:05,604 - INFO -   ffmpeg: Available
+2025-07-28 21:44:06,552 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://127.0.0.1:5000
+2025-07-28 21:44:06,571 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-28 21:45:31,600 - INFO - Created job 4afd075a-6801-414a-983f-01333b1802b4 for video: A.mp4
+2025-07-28 21:45:31,603 - INFO - Current jobs in memory: ['4afd075a-6801-414a-983f-01333b1802b4']
+2025-07-28 21:45:31,604 - INFO - Job 4afd075a-6801-414a-983f-01333b1802b4: Initializing - Starting video processing (0%)
+2025-07-28 21:45:31,622 - INFO - 127.0.0.1 - - [28/Jul/2025 21:45:31] "POST /api/process-video HTTP/1.1" 200 -
+2025-07-28 21:45:31,623 - INFO - Processing video: uploads\1753719331_A.mp4 (1.6MB)
+2025-07-28 21:45:31,634 - WARNING - For better Hindi/Hinglish accuracy, consider using 'small' or larger models
+2025-07-28 21:45:31,634 - INFO - Loading Whisper model: base
+2025-07-28 21:45:32,151 - WARNING - C:\Python311\Lib\site-packages\whisper\__init__.py:150: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(fp, map_location=device)
+
+2025-07-28 21:45:33,155 - INFO - Successfully loaded Whisper model: base
+2025-07-28 21:45:33,428 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 21:45:33,429 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-28 21:45:33,994 - WARNING - C:\Python311\Lib\site-packages\whisper\transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-07-28 21:45:35,723 - WARNING - Language detection failed: DecodingOptions.__init__() got an unexpected keyword argument 'duration'. Defaulting to hinglish.
+2025-07-28 21:45:35,725 - INFO - Using detected language: hi for hinglish
+2025-07-28 21:45:35,730 - INFO - Transcribing in language: hi
+2025-07-28 21:45:35,731 - INFO - Starting transcription of: outputs\4afd075a-6801-414a-983f-01333b1802b4\extracted_audio.wav
+2025-07-28 21:45:51,002 - INFO - Transcription completed in 15.1 seconds
+2025-07-28 21:45:51,020 - INFO - Generated SRT with 11 segments
+2025-07-28 21:45:51,409 - INFO - Created ASS file with styling: outputs\4afd075a-6801-414a-983f-01333b1802b4\captions.ass
+2025-07-28 21:45:57,284 - INFO - Job 4afd075a-6801-414a-983f-01333b1802b4: Completed - Video processing completed successfully! (100%)
+2025-07-28 21:47:56,162 - INFO - Created job 14a6b2cb-ccb3-4233-999d-d640c2084978 for video: A.mp4
+2025-07-28 21:47:56,186 - INFO - Current jobs in memory: ['4afd075a-6801-414a-983f-01333b1802b4', '14a6b2cb-ccb3-4233-999d-d640c2084978']
+2025-07-28 21:47:56,200 - INFO - Job 14a6b2cb-ccb3-4233-999d-d640c2084978: Initializing - Starting video processing (0%)
+2025-07-28 21:47:56,235 - INFO - Processing video: uploads\1753719476_A.mp4 (1.6MB)
+2025-07-28 21:47:56,240 - INFO - 127.0.0.1 - - [28/Jul/2025 21:47:56] "POST /api/process-video HTTP/1.1" 200 -
+2025-07-28 21:47:56,262 - WARNING - For better Hindi/Hinglish accuracy, consider using 'small' or larger models
+2025-07-28 21:47:56,374 - INFO - Loading Whisper model: base
+2025-07-28 21:47:57,186 - WARNING - C:\Python311\Lib\site-packages\whisper\__init__.py:150: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(fp, map_location=device)
+
+2025-07-28 21:48:00,098 - INFO - Successfully loaded Whisper model: base
+2025-07-28 21:48:00,426 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-28 21:48:00,435 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-28 21:48:02,246 - WARNING - C:\Python311\Lib\site-packages\whisper\transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-07-28 21:48:03,766 - WARNING - Language detection failed: DecodingOptions.__init__() got an unexpected keyword argument 'duration'. Defaulting to hinglish.
+2025-07-28 21:48:03,766 - INFO - Using detected language: hi for hinglish
+2025-07-28 21:48:03,768 - INFO - Transcribing in language: hi
+2025-07-28 21:48:03,768 - INFO - Starting transcription of: outputs\14a6b2cb-ccb3-4233-999d-d640c2084978\extracted_audio.wav
+2025-07-28 21:48:15,865 - INFO - Transcription completed in 11.9 seconds
+2025-07-28 21:48:15,870 - INFO - Generated SRT with 11 segments
+2025-07-28 21:48:17,530 - INFO - Created ASS file with styling: outputs\14a6b2cb-ccb3-4233-999d-d640c2084978\captions.ass
+2025-07-28 21:48:21,431 - INFO - Job 14a6b2cb-ccb3-4233-999d-d640c2084978: Completed - Video processing completed successfully! (100%)
+2025-07-29 16:15:45,460 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-29 16:15:45,468 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-29 16:15:45,689 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-29 16:15:45,690 - INFO - Dependency check results:
+2025-07-29 16:15:45,770 - INFO -   whisper: Available
+2025-07-29 16:15:45,776 - INFO -   moviepy: Available
+2025-07-29 16:15:45,781 - INFO -   opencv: Available
+2025-07-29 16:15:45,783 - INFO -   ffmpeg: Available
+2025-07-29 16:15:46,155 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.241.227:5000
+2025-07-29 16:15:46,159 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-29 16:17:35,911 - INFO - Created job 919da3f0-27aa-4447-bad5-3ad8158297e9 for video: videoplayback.mp4
+2025-07-29 16:17:35,912 - INFO - Current jobs in memory: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:17:35,916 - INFO - Job 919da3f0-27aa-4447-bad5-3ad8158297e9: Initializing - Starting video processing (0%)
+2025-07-29 16:17:35,921 - INFO - 127.0.0.1 - - [29/Jul/2025 16:17:35] "POST /api/process-video HTTP/1.1" 200 -
+2025-07-29 16:17:35,922 - INFO - Processing video: uploads\1753786055_videoplayback.mp4 (8.7MB)
+2025-07-29 16:17:35,928 - WARNING - For better Hindi/Hinglish accuracy, consider using 'small' or larger models
+2025-07-29 16:17:35,930 - INFO - Loading Whisper model: base
+2025-07-29 16:17:36,132 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:17:36,134 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:17:36,136 - INFO - Job 919da3f0-27aa-4447-bad5-3ad8158297e9 data: {'progress': 0, 'current_step': 'Initializing', 'message': 'Starting video processing', 'completed': False, 'error': None}
+2025-07-29 16:17:36,139 - INFO - Returning response for job 919da3f0-27aa-4447-bad5-3ad8158297e9: {'type': 'progress', 'progress': 0, 'current_step': 'Initializing', 'message': 'Starting video processing', 'completed': False, 'error': None}
+2025-07-29 16:17:36,141 - INFO - 127.0.0.1 - - [29/Jul/2025 16:17:36] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:17:36,350 - WARNING - C:\Python311\Lib\site-packages\whisper\__init__.py:150: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(fp, map_location=device)
+
+2025-07-29 16:17:37,152 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:17:37,154 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:17:37,158 - INFO - Job 919da3f0-27aa-4447-bad5-3ad8158297e9 data: {'progress': 0, 'current_step': 'Initializing', 'message': 'Starting video processing', 'completed': False, 'error': None}
+2025-07-29 16:17:37,162 - INFO - Returning response for job 919da3f0-27aa-4447-bad5-3ad8158297e9: {'type': 'progress', 'progress': 0, 'current_step': 'Initializing', 'message': 'Starting video processing', 'completed': False, 'error': None}
+2025-07-29 16:17:37,165 - INFO - 127.0.0.1 - - [29/Jul/2025 16:17:37] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:17:37,775 - INFO - Successfully loaded Whisper model: base
+2025-07-29 16:17:37,959 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-29 16:17:37,959 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-29 16:17:38,483 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:17:38,484 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:17:38,736 - INFO - 127.0.0.1 - - [29/Jul/2025 16:17:38] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:17:39,019 - INFO - Transcribing in language: en
+2025-07-29 16:17:39,027 - INFO - Starting transcription of: outputs\919da3f0-27aa-4447-bad5-3ad8158297e9\extracted_audio.wav
+2025-07-29 16:17:39,333 - WARNING - C:\Python311\Lib\site-packages\whisper\transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-07-29 16:17:39,822 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:17:39,824 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:17:39,976 - INFO - 127.0.0.1 - - [29/Jul/2025 16:17:39] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:17:42,133 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:17:42,134 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:17:42,379 - INFO - 127.0.0.1 - - [29/Jul/2025 16:17:42] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:17:43,820 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:17:43,824 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:17:43,869 - INFO - 127.0.0.1 - - [29/Jul/2025 16:17:43] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:17:45,216 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:17:45,216 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:17:45,614 - INFO - 127.0.0.1 - - [29/Jul/2025 16:17:45] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:17:46,630 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:17:46,631 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:17:46,947 - INFO - 127.0.0.1 - - [29/Jul/2025 16:17:46] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:17:49,535 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:17:49,544 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:17:49,632 - INFO - 127.0.0.1 - - [29/Jul/2025 16:17:49] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:17:50,822 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:17:50,823 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:17:50,846 - INFO - 127.0.0.1 - - [29/Jul/2025 16:17:50] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:17:52,176 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:17:52,177 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:17:52,230 - INFO - 127.0.0.1 - - [29/Jul/2025 16:17:52] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:17:53,241 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:17:53,242 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:17:53,263 - INFO - 127.0.0.1 - - [29/Jul/2025 16:17:53] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:17:54,585 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:17:54,586 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:17:54,610 - INFO - 127.0.0.1 - - [29/Jul/2025 16:17:54] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:17:55,627 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:17:55,627 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:17:55,651 - INFO - 127.0.0.1 - - [29/Jul/2025 16:17:55] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:17:56,980 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:17:56,983 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:17:57,334 - INFO - 127.0.0.1 - - [29/Jul/2025 16:17:57] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:17:58,347 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:17:58,350 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:17:58,534 - INFO - 127.0.0.1 - - [29/Jul/2025 16:17:58] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:17:59,858 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:17:59,858 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:17:59,896 - INFO - 127.0.0.1 - - [29/Jul/2025 16:17:59] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:18:00,908 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:18:00,909 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:18:00,949 - INFO - 127.0.0.1 - - [29/Jul/2025 16:18:00] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:18:02,279 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:18:02,280 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:18:02,709 - INFO - 127.0.0.1 - - [29/Jul/2025 16:18:02] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:18:03,725 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:18:03,726 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:18:03,770 - INFO - 127.0.0.1 - - [29/Jul/2025 16:18:03] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:18:05,099 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:18:05,102 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:18:05,217 - INFO - 127.0.0.1 - - [29/Jul/2025 16:18:05] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:18:06,237 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:18:06,240 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:18:06,799 - INFO - 127.0.0.1 - - [29/Jul/2025 16:18:06] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:18:09,128 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:18:09,129 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:18:09,152 - INFO - 127.0.0.1 - - [29/Jul/2025 16:18:09] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:18:10,823 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:18:10,824 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:18:10,853 - INFO - 127.0.0.1 - - [29/Jul/2025 16:18:10] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:18:13,768 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:18:13,770 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:18:14,395 - INFO - 127.0.0.1 - - [29/Jul/2025 16:18:14] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:18:15,885 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:18:15,890 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:18:16,385 - INFO - 127.0.0.1 - - [29/Jul/2025 16:18:16] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:18:16,632 - INFO - Transcription completed in 37.6 seconds
+2025-07-29 16:18:16,635 - INFO - Generated SRT with 29 segments
+2025-07-29 16:18:16,720 - INFO - Created ASS file with styling: outputs\919da3f0-27aa-4447-bad5-3ad8158297e9\captions.ass
+2025-07-29 16:18:18,126 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:18:18,134 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:18:18,518 - INFO - 127.0.0.1 - - [29/Jul/2025 16:18:18] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:18:19,850 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:18:19,853 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:18:20,182 - INFO - 127.0.0.1 - - [29/Jul/2025 16:18:20] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:18:23,494 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:18:23,506 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:18:24,758 - INFO - 127.0.0.1 - - [29/Jul/2025 16:18:24] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:18:29,086 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:18:29,107 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:18:30,267 - INFO - 127.0.0.1 - - [29/Jul/2025 16:18:30] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:18:36,209 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:18:36,214 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:18:36,815 - INFO - 127.0.0.1 - - [29/Jul/2025 16:18:36] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:18:38,828 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:18:38,833 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:18:39,290 - INFO - 127.0.0.1 - - [29/Jul/2025 16:18:39] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:18:43,249 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:18:43,250 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:18:43,884 - INFO - 127.0.0.1 - - [29/Jul/2025 16:18:43] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:18:45,814 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:18:45,814 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:18:49,090 - INFO - 127.0.0.1 - - [29/Jul/2025 16:18:49] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:18:51,162 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:18:51,163 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:18:51,579 - INFO - 127.0.0.1 - - [29/Jul/2025 16:18:51] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:18:52,822 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:18:52,842 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:18:53,401 - INFO - 127.0.0.1 - - [29/Jul/2025 16:18:53] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:18:55,308 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:18:55,451 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:18:56,286 - INFO - 127.0.0.1 - - [29/Jul/2025 16:18:56] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:18:57,819 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:18:57,819 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:18:58,565 - INFO - 127.0.0.1 - - [29/Jul/2025 16:18:58] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:19:00,241 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:19:00,247 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:19:00,376 - INFO - 127.0.0.1 - - [29/Jul/2025 16:19:00] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:19:01,389 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:19:01,391 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:19:01,520 - INFO - 127.0.0.1 - - [29/Jul/2025 16:19:01] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:19:02,912 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:19:02,913 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:19:02,952 - INFO - 127.0.0.1 - - [29/Jul/2025 16:19:02] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:19:05,147 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:19:05,148 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:19:05,315 - INFO - 127.0.0.1 - - [29/Jul/2025 16:19:05] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:19:05,864 - INFO - Job 919da3f0-27aa-4447-bad5-3ad8158297e9: Completed - Video processing completed successfully! (100%)
+2025-07-29 16:19:06,819 - INFO - Status request for job: 919da3f0-27aa-4447-bad5-3ad8158297e9
+2025-07-29 16:19:06,819 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9']
+2025-07-29 16:19:06,824 - INFO - Job 919da3f0-27aa-4447-bad5-3ad8158297e9 data: {'progress': 100, 'current_step': 'Completed', 'message': 'Video processing completed successfully!', 'completed': True, 'error': None, 'srt_content': "1\n00:00:07,500 --> 00:00:09,859\nOkay, let's do some tests\n\n2\n00:00:11,199 --> 00:00:13,480\nTell me when you see something that makes sound\n\n3\n00:00:15,800 --> 00:00:17,679\nI see a speaker which makes sound\n\n4\n00:00:19,559 --> 00:00:22,019\nWhat is that part of the speaker called\n\n5\n00:00:24,039 --> 00:00:25,339\nThat is the tweeter\n\n6\n00:00:25,339 --> 00:00:27,539\nIt produces high frequency sounds\n\n7\n00:00:31,859 --> 00:00:34,039\nGive me a creative alliteration about these\n\n8\n00:00:36,500 --> 00:00:38,359\nCreative crayons color cheerfully\n\n9\n00:00:39,000 --> 00:00:40,780\nThey certainly craft colorful creations\n\n10\n00:00:46,460 --> 00:00:48,259\nWhat does that part of the code do\n\n11\n00:00:51,219 --> 00:00:54,039\nThis code defines encryption and decryption functions\n\n12\n00:00:54,039 --> 00:01:01,979\nIt seems to use AESCBC encryption to encode and decode data based on a key and an initialization\n\n13\n00:01:01,979 --> 00:01:02,920\nVector, IV\n\n14\n00:01:05,420 --> 00:01:06,180\nThat's right\n\n15\n00:01:08,140 --> 00:01:10,260\nWhat neighborhood do you think I'm in\n\n16\n00:01:12,780 --> 00:01:15,180\nThis appears to be the King's Cross area of London\n\n17\n00:01:15,859 --> 00:01:19,120\nIt is known for its railway station and transportation connections\n\n18\n00:01:21,060 --> 00:01:23,180\nDo you remember where you saw my glasses\n\n19\n00:01:25,760 --> 00:01:26,659\nYes, I do\n\n20\n00:01:27,060 --> 00:01:29,140\nYour glasses were on the desk and you were red apple\n\n21\n00:01:40,900 --> 00:01:44,099\nWhat can I add here to make this system faster\n\n22\n00:01:46,899 --> 00:01:50,700\nAdding a cache between the server and database could improve speed\n\n23\n00:01:52,519 --> 00:01:54,519\nWhat does this remind you of\n\n24\n00:01:57,920 --> 00:01:58,859\nTrudginger's cat\n\n25\n00:02:01,000 --> 00:02:05,120\nAlright, give me a ban name for this duo\n\n26\n00:02:08,539 --> 00:02:09,319\nGolden Strikes\n\n27\n00:02:10,159 --> 00:02:10,419\nNice\n\n28\n00:02:10,960 --> 00:02:11,460\nThanks, Dominic\n\n29\n00:02:15,599 --> 00:02:17,000\nThank you\n", 'srt_path': 'outputs\\919da3f0-27aa-4447-bad5-3ad8158297e9\\captions.srt', 'video_with_subs_path': 'outputs\\919da3f0-27aa-4447-bad5-3ad8158297e9\\1753786055_videoplayback_with_subtitles_1753786096.mp4', 'output_dir': 'outputs\\919da3f0-27aa-4447-bad5-3ad8158297e9'}
+2025-07-29 16:19:06,830 - INFO - Returning response for job 919da3f0-27aa-4447-bad5-3ad8158297e9: {'type': 'complete', 'srtContent': "1\n00:00:07,500 --> 00:00:09,859\nOkay, let's do some tests\n\n2\n00:00:11,199 --> 00:00:13,480\nTell me when you see something that makes sound\n\n3\n00:00:15,800 --> 00:00:17,679\nI see a speaker which makes sound\n\n4\n00:00:19,559 --> 00:00:22,019\nWhat is that part of the speaker called\n\n5\n00:00:24,039 --> 00:00:25,339\nThat is the tweeter\n\n6\n00:00:25,339 --> 00:00:27,539\nIt produces high frequency sounds\n\n7\n00:00:31,859 --> 00:00:34,039\nGive me a creative alliteration about these\n\n8\n00:00:36,500 --> 00:00:38,359\nCreative crayons color cheerfully\n\n9\n00:00:39,000 --> 00:00:40,780\nThey certainly craft colorful creations\n\n10\n00:00:46,460 --> 00:00:48,259\nWhat does that part of the code do\n\n11\n00:00:51,219 --> 00:00:54,039\nThis code defines encryption and decryption functions\n\n12\n00:00:54,039 --> 00:01:01,979\nIt seems to use AESCBC encryption to encode and decode data based on a key and an initialization\n\n13\n00:01:01,979 --> 00:01:02,920\nVector, IV\n\n14\n00:01:05,420 --> 00:01:06,180\nThat's right\n\n15\n00:01:08,140 --> 00:01:10,260\nWhat neighborhood do you think I'm in\n\n16\n00:01:12,780 --> 00:01:15,180\nThis appears to be the King's Cross area of London\n\n17\n00:01:15,859 --> 00:01:19,120\nIt is known for its railway station and transportation connections\n\n18\n00:01:21,060 --> 00:01:23,180\nDo you remember where you saw my glasses\n\n19\n00:01:25,760 --> 00:01:26,659\nYes, I do\n\n20\n00:01:27,060 --> 00:01:29,140\nYour glasses were on the desk and you were red apple\n\n21\n00:01:40,900 --> 00:01:44,099\nWhat can I add here to make this system faster\n\n22\n00:01:46,899 --> 00:01:50,700\nAdding a cache between the server and database could improve speed\n\n23\n00:01:52,519 --> 00:01:54,519\nWhat does this remind you of\n\n24\n00:01:57,920 --> 00:01:58,859\nTrudginger's cat\n\n25\n00:02:01,000 --> 00:02:05,120\nAlright, give me a ban name for this duo\n\n26\n00:02:08,539 --> 00:02:09,319\nGolden Strikes\n\n27\n00:02:10,159 --> 00:02:10,419\nNice\n\n28\n00:02:10,960 --> 00:02:11,460\nThanks, Dominic\n\n29\n00:02:15,599 --> 00:02:17,000\nThank you\n", 'srtPath': 'outputs\\919da3f0-27aa-4447-bad5-3ad8158297e9\\captions.srt', 'outputDir': 'outputs\\919da3f0-27aa-4447-bad5-3ad8158297e9', 'message': 'Video processing completed successfully!', 'videoCreated': True, 'videoWithSubtitles': 'outputs\\919da3f0-27aa-4447-bad5-3ad8158297e9\\1753786055_videoplayback_with_subtitles_1753786096.mp4'}
+2025-07-29 16:19:06,832 - INFO - 127.0.0.1 - - [29/Jul/2025 16:19:06] "GET /api/job-status/919da3f0-27aa-4447-bad5-3ad8158297e9 HTTP/1.1" 200 -
+2025-07-29 16:50:06,375 - INFO - Created job 814f9ede-100f-48d1-8341-70586911a487 for video: Kaka_WRLD_-_Bholenath_A_Love_Story___Official_Video___Arvindr_Khaira___Main_Bhola_Parvat_Ka.mp4
+2025-07-29 16:50:06,454 - INFO - Current jobs in memory: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:50:06,475 - INFO - Job 814f9ede-100f-48d1-8341-70586911a487: Initializing - Starting video processing (0%)
+2025-07-29 16:50:06,488 - INFO - 127.0.0.1 - - [29/Jul/2025 16:50:06] "POST /api/process-video HTTP/1.1" 200 -
+2025-07-29 16:50:06,492 - INFO - Processing video: uploads\1753788006_Kaka_WRLD_-_Bholenath_A_Love_Story___Official_Video___Arvindr_Khaira___Main_Bhola_Parvat_Ka.mp4 (10.2MB)
+2025-07-29 16:50:06,500 - WARNING - For better Hindi/Hinglish accuracy, consider using 'small' or larger models
+2025-07-29 16:50:06,510 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:50:06,514 - INFO - Loading Whisper model: base
+2025-07-29 16:50:06,516 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:50:06,531 - INFO - Job 814f9ede-100f-48d1-8341-70586911a487 data: {'progress': 0, 'current_step': 'Initializing', 'message': 'Starting video processing', 'completed': False, 'error': None}
+2025-07-29 16:50:06,533 - INFO - Returning response for job 814f9ede-100f-48d1-8341-70586911a487: {'type': 'progress', 'progress': 0, 'current_step': 'Initializing', 'message': 'Starting video processing', 'completed': False, 'error': None}
+2025-07-29 16:50:06,535 - INFO - 127.0.0.1 - - [29/Jul/2025 16:50:06] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:50:07,017 - WARNING - C:\Python311\Lib\site-packages\whisper\__init__.py:150: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(fp, map_location=device)
+
+2025-07-29 16:50:07,930 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:50:07,975 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:50:08,054 - INFO - Job 814f9ede-100f-48d1-8341-70586911a487 data: {'progress': 0, 'current_step': 'Initializing', 'message': 'Starting video processing', 'completed': False, 'error': None}
+2025-07-29 16:50:08,072 - INFO - Returning response for job 814f9ede-100f-48d1-8341-70586911a487: {'type': 'progress', 'progress': 0, 'current_step': 'Initializing', 'message': 'Starting video processing', 'completed': False, 'error': None}
+2025-07-29 16:50:08,084 - INFO - 127.0.0.1 - - [29/Jul/2025 16:50:08] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:50:08,618 - INFO - Successfully loaded Whisper model: base
+2025-07-29 16:50:09,108 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:50:09,109 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:50:09,109 - INFO - Job 814f9ede-100f-48d1-8341-70586911a487 data: {'progress': 0, 'current_step': 'Initializing', 'message': 'Starting video processing', 'completed': False, 'error': None}
+2025-07-29 16:50:09,109 - INFO - Returning response for job 814f9ede-100f-48d1-8341-70586911a487: {'type': 'progress', 'progress': 0, 'current_step': 'Initializing', 'message': 'Starting video processing', 'completed': False, 'error': None}
+2025-07-29 16:50:09,111 - INFO - 127.0.0.1 - - [29/Jul/2025 16:50:09] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:50:09,859 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-29 16:50:09,860 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-29 16:50:10,499 - INFO - Transcribing in language: hi
+2025-07-29 16:50:10,502 - INFO - Starting transcription of: outputs\814f9ede-100f-48d1-8341-70586911a487\extracted_audio.wav
+2025-07-29 16:50:10,524 - WARNING - C:\Python311\Lib\site-packages\whisper\transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-07-29 16:50:11,159 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:50:11,165 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:50:11,473 - INFO - 127.0.0.1 - - [29/Jul/2025 16:50:11] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:50:12,725 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:50:12,729 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:50:12,891 - INFO - 127.0.0.1 - - [29/Jul/2025 16:50:12] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:50:14,226 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:50:14,227 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:50:14,260 - INFO - 127.0.0.1 - - [29/Jul/2025 16:50:14] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:50:15,576 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:50:15,579 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:50:15,644 - INFO - 127.0.0.1 - - [29/Jul/2025 16:50:15] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:50:16,653 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:50:16,653 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:50:16,679 - INFO - 127.0.0.1 - - [29/Jul/2025 16:50:16] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:50:18,002 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:50:18,002 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:50:18,057 - INFO - 127.0.0.1 - - [29/Jul/2025 16:50:18] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:50:19,067 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:50:19,068 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:50:19,124 - INFO - 127.0.0.1 - - [29/Jul/2025 16:50:19] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:50:20,458 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:50:20,460 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:50:20,907 - INFO - 127.0.0.1 - - [29/Jul/2025 16:50:20] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:50:22,833 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:50:22,834 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:50:22,907 - INFO - 127.0.0.1 - - [29/Jul/2025 16:50:22] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:50:25,156 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:50:25,157 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:50:25,210 - INFO - 127.0.0.1 - - [29/Jul/2025 16:50:25] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:50:26,835 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:50:26,835 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:50:26,874 - INFO - 127.0.0.1 - - [29/Jul/2025 16:50:26] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:50:29,131 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:50:29,132 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:50:29,231 - INFO - 127.0.0.1 - - [29/Jul/2025 16:50:29] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:50:30,817 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:50:30,818 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:50:30,860 - INFO - 127.0.0.1 - - [29/Jul/2025 16:50:30] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:50:33,121 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:50:33,121 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:50:33,161 - INFO - 127.0.0.1 - - [29/Jul/2025 16:50:33] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:50:34,838 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:50:34,838 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:50:35,074 - INFO - 127.0.0.1 - - [29/Jul/2025 16:50:35] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:50:36,436 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:50:36,437 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:50:36,472 - INFO - 127.0.0.1 - - [29/Jul/2025 16:50:36] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:50:37,483 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:50:37,483 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:50:37,523 - INFO - 127.0.0.1 - - [29/Jul/2025 16:50:37] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:50:38,842 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:50:38,842 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:50:38,892 - INFO - 127.0.0.1 - - [29/Jul/2025 16:50:38] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:50:40,817 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:50:40,818 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:50:40,869 - INFO - 127.0.0.1 - - [29/Jul/2025 16:50:40] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:50:43,139 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:50:43,140 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:50:43,172 - INFO - 127.0.0.1 - - [29/Jul/2025 16:50:43] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:50:44,825 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:50:44,826 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:50:44,914 - INFO - 127.0.0.1 - - [29/Jul/2025 16:50:44] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:50:47,175 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:50:47,180 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:50:47,283 - INFO - 127.0.0.1 - - [29/Jul/2025 16:50:47] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:50:48,889 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:50:48,890 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:50:48,925 - INFO - 127.0.0.1 - - [29/Jul/2025 16:50:48] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:50:51,143 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:50:51,144 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:50:51,174 - INFO - 127.0.0.1 - - [29/Jul/2025 16:50:51] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:50:52,822 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:50:52,823 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:50:52,856 - INFO - 127.0.0.1 - - [29/Jul/2025 16:50:52] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:50:55,122 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:50:55,130 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:50:55,165 - INFO - 127.0.0.1 - - [29/Jul/2025 16:50:55] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:50:56,817 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:50:56,817 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:50:56,853 - INFO - 127.0.0.1 - - [29/Jul/2025 16:50:56] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:50:59,141 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:50:59,143 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:50:59,314 - INFO - 127.0.0.1 - - [29/Jul/2025 16:50:59] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:01,254 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:01,265 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:01,424 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:01] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:02,816 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:02,817 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:02,851 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:02] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:04,180 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:04,180 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:04,217 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:04] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:05,240 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:05,241 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:05,260 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:05] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:06,587 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:06,587 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:06,609 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:06] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:07,616 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:07,617 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:07,642 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:07] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:08,968 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:08,968 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:08,990 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:08] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:10,014 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:10,015 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:10,032 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:10] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:11,357 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:11,358 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:11,377 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:11] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:12,577 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:12,579 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:12,777 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:12] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:14,132 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:14,133 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:14,155 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:14] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:15,833 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:15,833 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:15,856 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:15] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:18,124 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:18,124 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:18,141 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:18] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:19,819 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:19,820 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:19,837 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:19] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:22,135 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:22,136 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:22,170 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:22] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:23,819 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:23,819 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:23,842 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:23] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:26,123 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:26,123 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:26,143 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:26] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:27,820 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:27,821 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:27,851 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:27] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:30,133 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:30,133 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:30,153 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:30] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:31,820 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:31,820 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:31,855 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:31] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:34,196 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:34,200 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:34,220 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:34] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:35,820 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:35,820 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:35,850 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:35] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:38,122 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:38,122 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:38,139 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:38] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:39,815 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:39,817 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:39,841 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:39] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:42,139 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:42,140 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:42,155 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:42] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:43,808 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:43,809 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:43,824 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:43] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:45,862 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:45,862 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:45,882 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:45] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:46,888 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:46,889 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:46,907 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:46] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:48,223 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:48,224 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:48,242 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:48] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:49,816 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:49,817 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:49,836 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:49] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:52,134 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:52,134 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:52,172 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:52] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:53,816 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:53,819 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:53,837 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:53] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:56,130 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:56,130 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:56,149 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:56] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:51:57,814 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:51:57,815 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:51:57,888 - INFO - 127.0.0.1 - - [29/Jul/2025 16:51:57] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:52:00,135 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:52:00,138 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:52:00,202 - INFO - 127.0.0.1 - - [29/Jul/2025 16:52:00] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:52:01,815 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:52:01,815 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:52:01,884 - INFO - 127.0.0.1 - - [29/Jul/2025 16:52:01] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:52:04,126 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:52:04,127 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:52:04,175 - INFO - 127.0.0.1 - - [29/Jul/2025 16:52:04] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:52:05,809 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:52:05,810 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:52:05,890 - INFO - 127.0.0.1 - - [29/Jul/2025 16:52:05] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:52:08,144 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:52:08,145 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:52:08,245 - INFO - 127.0.0.1 - - [29/Jul/2025 16:52:08] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:52:09,824 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:52:09,825 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:52:10,313 - INFO - 127.0.0.1 - - [29/Jul/2025 16:52:10] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:52:12,143 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:52:12,144 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:52:12,222 - INFO - 127.0.0.1 - - [29/Jul/2025 16:52:12] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:52:13,821 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:52:13,822 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:52:13,893 - INFO - 127.0.0.1 - - [29/Jul/2025 16:52:13] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:52:16,129 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:52:16,129 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:52:16,157 - INFO - 127.0.0.1 - - [29/Jul/2025 16:52:16] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:52:17,810 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:52:17,810 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:52:17,840 - INFO - 127.0.0.1 - - [29/Jul/2025 16:52:17] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:52:19,965 - INFO - Transcription completed in 129.4 seconds
+2025-07-29 16:52:19,970 - INFO - Generated SRT with 11 segments
+2025-07-29 16:52:20,136 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:52:20,176 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:52:20,302 - INFO - 127.0.0.1 - - [29/Jul/2025 16:52:20] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:52:20,419 - INFO - Created ASS file with styling: outputs\814f9ede-100f-48d1-8341-70586911a487\captions.ass
+2025-07-29 16:52:21,832 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:52:21,835 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:52:21,920 - INFO - 127.0.0.1 - - [29/Jul/2025 16:52:21] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:52:24,124 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:52:24,126 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:52:24,205 - INFO - 127.0.0.1 - - [29/Jul/2025 16:52:24] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:52:26,152 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:52:26,153 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:52:26,215 - INFO - 127.0.0.1 - - [29/Jul/2025 16:52:26] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:52:27,821 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:52:27,822 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:52:27,869 - INFO - 127.0.0.1 - - [29/Jul/2025 16:52:27] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:52:30,185 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:52:30,191 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:52:31,235 - INFO - 127.0.0.1 - - [29/Jul/2025 16:52:31] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:52:32,854 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:52:32,867 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:52:33,954 - INFO - 127.0.0.1 - - [29/Jul/2025 16:52:33] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:52:36,175 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:52:36,188 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:52:36,603 - INFO - 127.0.0.1 - - [29/Jul/2025 16:52:36] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:52:37,890 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:52:37,899 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:52:39,211 - INFO - 127.0.0.1 - - [29/Jul/2025 16:52:39] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:52:40,532 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:52:40,533 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:52:40,941 - INFO - 127.0.0.1 - - [29/Jul/2025 16:52:40] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:52:42,843 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:52:42,849 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:52:43,774 - INFO - 127.0.0.1 - - [29/Jul/2025 16:52:43] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:52:45,134 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:52:45,140 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:52:45,305 - INFO - 127.0.0.1 - - [29/Jul/2025 16:52:45] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:52:46,824 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:52:46,835 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:52:47,414 - INFO - 127.0.0.1 - - [29/Jul/2025 16:52:47] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:52:49,141 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:52:49,145 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:52:49,509 - INFO - 127.0.0.1 - - [29/Jul/2025 16:52:49] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:52:50,813 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:52:50,817 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:52:53,070 - INFO - 127.0.0.1 - - [29/Jul/2025 16:52:53] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:52:55,128 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:52:55,129 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:52:55,338 - INFO - 127.0.0.1 - - [29/Jul/2025 16:52:55] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:52:56,825 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:52:56,829 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:52:57,125 - INFO - 127.0.0.1 - - [29/Jul/2025 16:52:57] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:52:59,135 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:52:59,138 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:52:59,554 - INFO - 127.0.0.1 - - [29/Jul/2025 16:52:59] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:53:00,814 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:53:00,827 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:53:01,752 - INFO - 127.0.0.1 - - [29/Jul/2025 16:53:01] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:53:04,165 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:53:04,165 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:53:04,321 - INFO - 127.0.0.1 - - [29/Jul/2025 16:53:04] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:53:06,160 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:53:06,167 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:53:07,717 - INFO - 127.0.0.1 - - [29/Jul/2025 16:53:07] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:53:09,889 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:53:09,890 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:53:10,369 - INFO - 127.0.0.1 - - [29/Jul/2025 16:53:10] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:53:12,145 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:53:12,145 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:53:13,053 - INFO - 127.0.0.1 - - [29/Jul/2025 16:53:13] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:53:14,826 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:53:14,831 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:53:16,107 - INFO - 127.0.0.1 - - [29/Jul/2025 16:53:16] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:53:18,167 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:53:18,174 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:53:18,967 - INFO - 127.0.0.1 - - [29/Jul/2025 16:53:18] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:53:20,831 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:53:20,848 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:53:22,518 - INFO - 127.0.0.1 - - [29/Jul/2025 16:53:22] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:53:24,226 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:53:24,241 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:53:25,340 - INFO - 127.0.0.1 - - [29/Jul/2025 16:53:25] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:53:27,173 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:53:27,175 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:53:28,364 - INFO - 127.0.0.1 - - [29/Jul/2025 16:53:28] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:53:29,825 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:53:29,839 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:53:31,143 - INFO - 127.0.0.1 - - [29/Jul/2025 16:53:31] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:53:34,201 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:53:34,208 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:53:34,661 - INFO - 127.0.0.1 - - [29/Jul/2025 16:53:34] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:53:36,138 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:53:36,141 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:53:36,370 - INFO - 127.0.0.1 - - [29/Jul/2025 16:53:36] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:53:37,819 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:53:37,834 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:53:39,229 - INFO - 127.0.0.1 - - [29/Jul/2025 16:53:39] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:53:42,166 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:53:42,166 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:53:43,175 - INFO - 127.0.0.1 - - [29/Jul/2025 16:53:43] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:53:44,824 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:53:44,832 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:53:46,104 - INFO - 127.0.0.1 - - [29/Jul/2025 16:53:46] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:53:48,174 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:53:48,185 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:53:48,988 - INFO - 127.0.0.1 - - [29/Jul/2025 16:53:48] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:53:50,818 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:53:50,825 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:53:52,090 - INFO - 127.0.0.1 - - [29/Jul/2025 16:53:52] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:53:54,173 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:53:54,180 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:53:55,310 - INFO - 127.0.0.1 - - [29/Jul/2025 16:53:55] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:53:57,153 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:53:57,153 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:53:57,929 - INFO - 127.0.0.1 - - [29/Jul/2025 16:53:57] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:53:59,819 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:53:59,823 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:54:00,332 - INFO - 127.0.0.1 - - [29/Jul/2025 16:54:00] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:54:02,162 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:54:02,171 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:54:02,753 - INFO - 127.0.0.1 - - [29/Jul/2025 16:54:02] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:54:04,832 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:54:04,836 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:54:05,300 - INFO - 127.0.0.1 - - [29/Jul/2025 16:54:05] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:54:07,168 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:54:07,171 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:54:07,355 - INFO - 127.0.0.1 - - [29/Jul/2025 16:54:07] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:54:08,819 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:54:08,823 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:54:08,920 - INFO - 127.0.0.1 - - [29/Jul/2025 16:54:08] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-29 16:54:09,076 - INFO - Job 814f9ede-100f-48d1-8341-70586911a487: Completed - Video processing completed successfully! (100%)
+2025-07-29 16:54:11,125 - INFO - Status request for job: 814f9ede-100f-48d1-8341-70586911a487
+2025-07-29 16:54:11,125 - INFO - Available jobs: ['919da3f0-27aa-4447-bad5-3ad8158297e9', '814f9ede-100f-48d1-8341-70586911a487']
+2025-07-29 16:54:11,186 - INFO - 127.0.0.1 - - [29/Jul/2025 16:54:11] "GET /api/job-status/814f9ede-100f-48d1-8341-70586911a487 HTTP/1.1" 200 -
+2025-07-30 13:53:30,220 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-30 13:53:30,221 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-30 13:53:30,335 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-30 13:53:30,336 - INFO - Dependency check results:
+2025-07-30 13:53:30,336 - INFO -   whisper: Available
+2025-07-30 13:53:30,336 - INFO -   moviepy: Available
+2025-07-30 13:53:30,336 - INFO -   opencv: Available
+2025-07-30 13:53:30,337 - INFO -   ffmpeg: Available
+2025-07-30 13:53:30,428 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.241.227:5000
+2025-07-30 13:53:30,430 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-30 13:58:56,473 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-30 13:58:56,474 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-30 13:58:56,690 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-30 13:58:56,691 - INFO - Dependency check results:
+2025-07-30 13:58:56,691 - INFO -   whisper: Available
+2025-07-30 13:58:56,692 - INFO -   moviepy: Available
+2025-07-30 13:58:56,692 - INFO -   opencv: Available
+2025-07-30 13:58:56,692 - INFO -   ffmpeg: Available
+2025-07-30 13:58:56,757 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.241.227:5000
+2025-07-30 13:58:56,761 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-30 14:01:28,206 - INFO - Created job 3e1e2472-7d3d-4a05-9df3-d15235e71306 for video: short_Ep9Y2AG0088.mp4
+2025-07-30 14:01:28,216 - INFO - Current jobs in memory: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:01:28,241 - INFO - Job 3e1e2472-7d3d-4a05-9df3-d15235e71306: Initializing - Starting video processing (0%)
+2025-07-30 14:01:28,252 - INFO - 127.0.0.1 - - [30/Jul/2025 14:01:28] "POST /api/process-video HTTP/1.1" 200 -
+2025-07-30 14:01:28,257 - INFO - Processing video: uploads\1753864288_short_Ep9Y2AG0088.mp4 (8.4MB)
+2025-07-30 14:01:28,258 - WARNING - For better Hindi/Hinglish accuracy, consider using 'small' or larger models
+2025-07-30 14:01:28,259 - INFO - Loading Whisper model: base
+2025-07-30 14:01:28,267 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:01:28,271 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:01:28,275 - INFO - Job 3e1e2472-7d3d-4a05-9df3-d15235e71306 data: {'progress': 0, 'current_step': 'Initializing', 'message': 'Starting video processing', 'completed': False, 'error': None}
+2025-07-30 14:01:28,275 - INFO - Returning response for job 3e1e2472-7d3d-4a05-9df3-d15235e71306: {'type': 'progress', 'progress': 0, 'current_step': 'Initializing', 'message': 'Starting video processing', 'completed': False, 'error': None}
+2025-07-30 14:01:28,278 - INFO - 127.0.0.1 - - [30/Jul/2025 14:01:28] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:01:28,737 - WARNING - C:\Python311\Lib\site-packages\whisper\__init__.py:150: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(fp, map_location=device)
+
+2025-07-30 14:01:29,616 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:01:29,618 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:01:29,620 - INFO - Job 3e1e2472-7d3d-4a05-9df3-d15235e71306 data: {'progress': 0, 'current_step': 'Initializing', 'message': 'Starting video processing', 'completed': False, 'error': None}
+2025-07-30 14:01:29,620 - INFO - Returning response for job 3e1e2472-7d3d-4a05-9df3-d15235e71306: {'type': 'progress', 'progress': 0, 'current_step': 'Initializing', 'message': 'Starting video processing', 'completed': False, 'error': None}
+2025-07-30 14:01:29,621 - INFO - 127.0.0.1 - - [30/Jul/2025 14:01:29] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:01:30,280 - INFO - Successfully loaded Whisper model: base
+2025-07-30 14:01:30,632 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:01:30,980 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:01:30,986 - INFO - Job 3e1e2472-7d3d-4a05-9df3-d15235e71306 data: {'progress': 0, 'current_step': 'Initializing', 'message': 'Starting video processing', 'completed': False, 'error': None}
+2025-07-30 14:01:30,990 - INFO - Returning response for job 3e1e2472-7d3d-4a05-9df3-d15235e71306: {'type': 'progress', 'progress': 0, 'current_step': 'Initializing', 'message': 'Starting video processing', 'completed': False, 'error': None}
+2025-07-30 14:01:30,997 - INFO - 127.0.0.1 - - [30/Jul/2025 14:01:30] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:01:31,073 - INFO - FFmpeg detected: ffmpeg version 7.0.2-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+2025-07-30 14:01:31,073 - INFO - VideoProcessor initialized - FFmpeg: True, MoviePy: True, OpenCV: True
+2025-07-30 14:01:32,531 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:01:33,458 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:01:36,011 - INFO - 127.0.0.1 - - [30/Jul/2025 14:01:36] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:01:37,022 - INFO - Transcribing in language: en
+2025-07-30 14:01:37,025 - INFO - Starting transcription of: outputs\3e1e2472-7d3d-4a05-9df3-d15235e71306\extracted_audio.wav
+2025-07-30 14:01:37,355 - WARNING - C:\Python311\Lib\site-packages\whisper\transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-07-30 14:01:37,822 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:01:37,823 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:01:38,364 - INFO - 127.0.0.1 - - [30/Jul/2025 14:01:38] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:01:40,140 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:01:40,143 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:01:40,326 - INFO - 127.0.0.1 - - [30/Jul/2025 14:01:40] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:01:42,137 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:01:42,138 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:01:42,177 - INFO - 127.0.0.1 - - [30/Jul/2025 14:01:42] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:01:43,824 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:01:43,824 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:01:43,841 - INFO - 127.0.0.1 - - [30/Jul/2025 14:01:43] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:01:46,167 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:01:46,167 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:01:46,219 - INFO - 127.0.0.1 - - [30/Jul/2025 14:01:46] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:01:48,105 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:01:48,108 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:01:48,185 - INFO - 127.0.0.1 - - [30/Jul/2025 14:01:48] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:01:50,143 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:01:50,143 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:01:50,159 - INFO - 127.0.0.1 - - [30/Jul/2025 14:01:50] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:01:53,985 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:01:53,987 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:01:54,035 - INFO - 127.0.0.1 - - [30/Jul/2025 14:01:54] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:01:55,883 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:01:55,885 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:01:55,938 - INFO - 127.0.0.1 - - [30/Jul/2025 14:01:55] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:01:57,535 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:01:57,536 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:01:57,551 - INFO - 127.0.0.1 - - [30/Jul/2025 14:01:57] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:01:58,560 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:01:58,564 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:01:58,575 - INFO - 127.0.0.1 - - [30/Jul/2025 14:01:58] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:01:59,900 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:01:59,904 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:01:59,988 - INFO - 127.0.0.1 - - [30/Jul/2025 14:01:59] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:02:02,153 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:02:02,154 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:02:02,225 - INFO - 127.0.0.1 - - [30/Jul/2025 14:02:02] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:02:03,821 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:02:03,821 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:02:03,883 - INFO - 127.0.0.1 - - [30/Jul/2025 14:02:03] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:02:06,164 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:02:06,166 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:02:06,222 - INFO - 127.0.0.1 - - [30/Jul/2025 14:02:06] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:02:07,840 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:02:07,847 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:02:08,041 - INFO - 127.0.0.1 - - [30/Jul/2025 14:02:08] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:02:10,139 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:02:10,140 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:02:10,383 - INFO - 127.0.0.1 - - [30/Jul/2025 14:02:10] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:02:12,406 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:02:12,407 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:02:12,572 - INFO - 127.0.0.1 - - [30/Jul/2025 14:02:12] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:02:12,590 - INFO - Transcription completed in 35.5 seconds
+2025-07-30 14:02:12,605 - INFO - Generated SRT with 15 segments
+2025-07-30 14:02:12,925 - INFO - Created ASS file with styling: outputs\3e1e2472-7d3d-4a05-9df3-d15235e71306\captions.ass
+2025-07-30 14:02:13,860 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:02:13,864 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:02:14,010 - INFO - 127.0.0.1 - - [30/Jul/2025 14:02:14] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:02:21,088 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:02:21,098 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:02:23,108 - INFO - 127.0.0.1 - - [30/Jul/2025 14:02:23] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:02:25,304 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:02:25,304 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:02:25,891 - INFO - 127.0.0.1 - - [30/Jul/2025 14:02:25] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:02:28,205 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:02:28,210 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:02:28,426 - INFO - 127.0.0.1 - - [30/Jul/2025 14:02:28] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:02:30,191 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:02:30,205 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:02:30,770 - INFO - 127.0.0.1 - - [30/Jul/2025 14:02:30] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:02:32,419 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:02:32,431 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:02:32,861 - INFO - 127.0.0.1 - - [30/Jul/2025 14:02:32] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:02:33,881 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:02:33,897 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:02:34,604 - INFO - 127.0.0.1 - - [30/Jul/2025 14:02:34] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:02:35,988 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:02:36,009 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:02:37,986 - INFO - 127.0.0.1 - - [30/Jul/2025 14:02:37] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:02:39,047 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:02:39,132 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:02:41,648 - INFO - 127.0.0.1 - - [30/Jul/2025 14:02:41] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:02:42,997 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:02:42,997 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:02:43,505 - INFO - 127.0.0.1 - - [30/Jul/2025 14:02:43] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:02:44,527 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:02:44,622 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:02:46,745 - INFO - 127.0.0.1 - - [30/Jul/2025 14:02:46] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:02:48,067 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:02:48,069 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:02:48,646 - INFO - 127.0.0.1 - - [30/Jul/2025 14:02:48] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:02:49,663 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:02:49,663 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:02:49,816 - INFO - 127.0.0.1 - - [30/Jul/2025 14:02:49] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:02:51,142 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:02:51,144 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:02:51,770 - INFO - 127.0.0.1 - - [30/Jul/2025 14:02:51] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:02:53,120 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:02:53,171 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:02:54,914 - INFO - 127.0.0.1 - - [30/Jul/2025 14:02:54] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:02:55,936 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:02:55,982 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:02:56,585 - INFO - 127.0.0.1 - - [30/Jul/2025 14:02:56] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:02:58,163 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:02:58,174 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:03:00,338 - INFO - 127.0.0.1 - - [30/Jul/2025 14:03:00] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:03:01,350 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:03:01,965 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:03:02,871 - INFO - 127.0.0.1 - - [30/Jul/2025 14:03:02] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:03:04,210 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:03:04,216 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:03:05,633 - INFO - 127.0.0.1 - - [30/Jul/2025 14:03:05] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:03:06,937 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:03:06,950 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:03:08,811 - INFO - 127.0.0.1 - - [30/Jul/2025 14:03:08] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:03:10,163 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:03:10,174 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:03:10,950 - INFO - 127.0.0.1 - - [30/Jul/2025 14:03:10] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:03:12,072 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:03:12,089 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:03:12,502 - INFO - 127.0.0.1 - - [30/Jul/2025 14:03:12] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:03:13,857 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:03:13,866 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:03:16,204 - INFO - 127.0.0.1 - - [30/Jul/2025 14:03:16] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:03:17,217 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:03:17,218 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:03:17,454 - INFO - 127.0.0.1 - - [30/Jul/2025 14:03:17] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:03:18,892 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:03:18,901 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:03:20,645 - INFO - 127.0.0.1 - - [30/Jul/2025 14:03:20] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:03:21,653 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:03:21,655 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:03:22,836 - INFO - 127.0.0.1 - - [30/Jul/2025 14:03:22] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:03:24,169 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:03:24,229 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:03:26,570 - INFO - 127.0.0.1 - - [30/Jul/2025 14:03:26] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:03:28,136 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:03:28,170 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:03:30,070 - INFO - 127.0.0.1 - - [30/Jul/2025 14:03:30] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:03:31,085 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:03:31,086 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:03:31,724 - INFO - 127.0.0.1 - - [30/Jul/2025 14:03:31] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:03:33,181 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:03:33,200 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:03:35,954 - INFO - 127.0.0.1 - - [30/Jul/2025 14:03:35] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:03:37,293 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:03:37,304 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:03:38,284 - INFO - 127.0.0.1 - - [30/Jul/2025 14:03:38] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:03:39,817 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:03:39,822 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:03:40,137 - INFO - 127.0.0.1 - - [30/Jul/2025 14:03:40] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:03:42,142 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:03:42,152 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:03:42,763 - INFO - 127.0.0.1 - - [30/Jul/2025 14:03:42] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:03:43,792 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:03:43,799 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:03:44,294 - INFO - 127.0.0.1 - - [30/Jul/2025 14:03:44] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:03:45,634 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:03:45,647 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:03:46,217 - INFO - 127.0.0.1 - - [30/Jul/2025 14:03:46] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:03:47,242 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:03:47,248 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:03:47,649 - INFO - 127.0.0.1 - - [30/Jul/2025 14:03:47] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:03:48,985 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:03:48,990 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:03:49,241 - INFO - 127.0.0.1 - - [30/Jul/2025 14:03:49] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:03:50,269 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:03:50,277 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:03:50,836 - INFO - 127.0.0.1 - - [30/Jul/2025 14:03:50] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:03:53,168 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:03:53,202 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:03:56,134 - INFO - 127.0.0.1 - - [30/Jul/2025 14:03:56] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:04:00,496 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:04:00,497 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:04:01,098 - INFO - 127.0.0.1 - - [30/Jul/2025 14:04:01] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:04:02,947 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:04:02,955 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:04:03,796 - INFO - 127.0.0.1 - - [30/Jul/2025 14:04:03] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:04:04,826 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:04:04,834 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:04:05,961 - INFO - 127.0.0.1 - - [30/Jul/2025 14:04:05] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:04:08,251 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:04:08,261 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:04:09,480 - INFO - 127.0.0.1 - - [30/Jul/2025 14:04:09] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:04:10,862 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:04:10,878 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:04:11,952 - INFO - 127.0.0.1 - - [30/Jul/2025 14:04:11] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:04:14,132 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:04:14,139 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:04:14,434 - INFO - 127.0.0.1 - - [30/Jul/2025 14:04:14] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:04:15,816 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:04:15,819 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:04:16,132 - INFO - 127.0.0.1 - - [30/Jul/2025 14:04:16] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:04:18,134 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:04:18,142 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:04:18,578 - INFO - 127.0.0.1 - - [30/Jul/2025 14:04:18] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:04:19,814 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:04:19,818 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:04:20,015 - INFO - 127.0.0.1 - - [30/Jul/2025 14:04:20] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:04:22,143 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:04:22,156 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:04:22,794 - INFO - 127.0.0.1 - - [30/Jul/2025 14:04:22] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:04:24,816 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:04:24,818 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:04:25,327 - INFO - 127.0.0.1 - - [30/Jul/2025 14:04:25] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:04:27,152 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:04:27,160 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:04:27,970 - INFO - 127.0.0.1 - - [30/Jul/2025 14:04:27] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:04:29,814 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:04:29,822 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:04:30,363 - INFO - 127.0.0.1 - - [30/Jul/2025 14:04:30] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:04:32,229 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:04:32,245 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:04:32,924 - INFO - 127.0.0.1 - - [30/Jul/2025 14:04:32] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:04:34,816 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:04:34,823 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:04:35,137 - INFO - 127.0.0.1 - - [30/Jul/2025 14:04:35] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:04:36,846 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:04:36,853 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:04:37,197 - INFO - 127.0.0.1 - - [30/Jul/2025 14:04:37] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:04:38,210 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:04:38,212 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:04:38,430 - INFO - 127.0.0.1 - - [30/Jul/2025 14:04:38] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:04:39,779 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:04:39,785 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:04:40,346 - INFO - 127.0.0.1 - - [30/Jul/2025 14:04:40] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:04:41,814 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:04:41,815 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:04:42,211 - INFO - 127.0.0.1 - - [30/Jul/2025 14:04:42] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:04:43,561 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:04:43,566 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:04:44,060 - INFO - 127.0.0.1 - - [30/Jul/2025 14:04:44] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:04:45,085 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:04:45,093 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:04:45,615 - INFO - 127.0.0.1 - - [30/Jul/2025 14:04:45] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:04:48,411 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:04:48,423 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:04:48,611 - INFO - 127.0.0.1 - - [30/Jul/2025 14:04:48] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -
+2025-07-30 14:04:49,484 - INFO - Job 3e1e2472-7d3d-4a05-9df3-d15235e71306: Completed - Video processing completed successfully! (100%)
+2025-07-30 14:04:50,806 - INFO - Status request for job: 3e1e2472-7d3d-4a05-9df3-d15235e71306
+2025-07-30 14:04:50,807 - INFO - Available jobs: ['3e1e2472-7d3d-4a05-9df3-d15235e71306']
+2025-07-30 14:04:50,808 - INFO - Job 3e1e2472-7d3d-4a05-9df3-d15235e71306 data: {'progress': 100, 'current_step': 'Completed', 'message': 'Video processing completed successfully!', 'completed': True, 'error': None, 'srt_content': "1\n00:00:00,000 --> 00:00:04,259\nAlright, so should you learn to code or let AI do coding for you\n\n2\n00:00:04,740 --> 00:00:09,240\nI mean there are like crazy amount of AI tools right now that can actually take a simple\n\n3\n00:00:09,240 --> 00:00:12,500\nText input and convert it into a real project\n\n4\n00:00:12,759 --> 00:00:16,739\nFor example, let's say you want to create a dashboard for your SAS application or create\n\n5\n00:00:16,739 --> 00:00:21,460\nA simple to do app or maybe a not taking app, simply open one of these AI tools, give it\n\n6\n00:00:21,460 --> 00:00:24,620\nA simple text prompt and the code should be ready in no time\n\n7\n00:00:24,859 --> 00:00:27,420\nSo it all started with the introduction of chat GPT\n\n8\n00:00:27,420 --> 00:00:32,299\nSo back in the days when chat GPT was initially announced, if a person want to develop\n\n9\n00:00:32,299 --> 00:00:36,579\nA let's say code and HTML page with some basic styling and stuff, he could write away\n\n10\n00:00:36,579 --> 00:00:41,159\nOpen chat GPT and ask it to code the same and chat GPT should give the code in no time\n\n11\n00:00:41,560 --> 00:00:44,719\nSimilarly let's say some basic JavaScript project PHP Python\n\n12\n00:00:45,100 --> 00:00:49,020\nI mean chat GPT was capable enough to write code for all of these popular frameworks\n\n13\n00:00:49,020 --> 00:00:50,780\nAnd libraries and programming languages\n\n14\n00:00:51,079 --> 00:00:55,640\nAfter chat GPT came other AI chat boards like cloud AI which performed way better\n\n15\n00:00:55,640 --> 00:00:59,920\nWhen it comes to coding sort of things and then various different LLMS and AI models\n", 'srt_path': 'outputs\\3e1e2472-7d3d-4a05-9df3-d15235e71306\\captions.srt', 'video_with_subs_path': 'outputs\\3e1e2472-7d3d-4a05-9df3-d15235e71306\\1753864288_short_Ep9Y2AG0088_with_subtitles_1753864332.mp4', 'output_dir': 'outputs\\3e1e2472-7d3d-4a05-9df3-d15235e71306'}
+2025-07-30 14:04:50,813 - INFO - Returning response for job 3e1e2472-7d3d-4a05-9df3-d15235e71306: {'type': 'complete', 'srtContent': "1\n00:00:00,000 --> 00:00:04,259\nAlright, so should you learn to code or let AI do coding for you\n\n2\n00:00:04,740 --> 00:00:09,240\nI mean there are like crazy amount of AI tools right now that can actually take a simple\n\n3\n00:00:09,240 --> 00:00:12,500\nText input and convert it into a real project\n\n4\n00:00:12,759 --> 00:00:16,739\nFor example, let's say you want to create a dashboard for your SAS application or create\n\n5\n00:00:16,739 --> 00:00:21,460\nA simple to do app or maybe a not taking app, simply open one of these AI tools, give it\n\n6\n00:00:21,460 --> 00:00:24,620\nA simple text prompt and the code should be ready in no time\n\n7\n00:00:24,859 --> 00:00:27,420\nSo it all started with the introduction of chat GPT\n\n8\n00:00:27,420 --> 00:00:32,299\nSo back in the days when chat GPT was initially announced, if a person want to develop\n\n9\n00:00:32,299 --> 00:00:36,579\nA let's say code and HTML page with some basic styling and stuff, he could write away\n\n10\n00:00:36,579 --> 00:00:41,159\nOpen chat GPT and ask it to code the same and chat GPT should give the code in no time\n\n11\n00:00:41,560 --> 00:00:44,719\nSimilarly let's say some basic JavaScript project PHP Python\n\n12\n00:00:45,100 --> 00:00:49,020\nI mean chat GPT was capable enough to write code for all of these popular frameworks\n\n13\n00:00:49,020 --> 00:00:50,780\nAnd libraries and programming languages\n\n14\n00:00:51,079 --> 00:00:55,640\nAfter chat GPT came other AI chat boards like cloud AI which performed way better\n\n15\n00:00:55,640 --> 00:00:59,920\nWhen it comes to coding sort of things and then various different LLMS and AI models\n", 'srtPath': 'outputs\\3e1e2472-7d3d-4a05-9df3-d15235e71306\\captions.srt', 'outputDir': 'outputs\\3e1e2472-7d3d-4a05-9df3-d15235e71306', 'message': 'Video processing completed successfully!', 'videoCreated': True, 'videoWithSubtitles': 'outputs\\3e1e2472-7d3d-4a05-9df3-d15235e71306\\1753864288_short_Ep9Y2AG0088_with_subtitles_1753864332.mp4'}
+2025-07-30 14:04:50,816 - INFO - 127.0.0.1 - - [30/Jul/2025 14:04:50] "GET /api/job-status/3e1e2472-7d3d-4a05-9df3-d15235e71306 HTTP/1.1" 200 -

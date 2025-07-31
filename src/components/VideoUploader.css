@@ -1,0 +1,79 @@
+/* VideoUploader.css */
+.video-uploader {
+  width: 100%;
+}
+.dropzone {
+  border: 2px dashed #4f46e5;
+  border-radius: 8px;
+  padding: 2rem;
+  text-align: center;
+  cursor: pointer;
+  transition: border-color 0.2s ease-in-out;
+}
+
+.dropzone.drag-active {
+  border-color: #434c89;
+}
+
+.dropzone.drag-accept {
+  border-color: #23d160;
+}
+
+.dropzone.drag-reject {
+  border-color: #ff3860;
+}
+
+.upload-prompt {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.upload-prompt .upload-icon {
+  color: #4f46e5;
+}
+
+.upload-prompt h2 {
+  font-size: 1.5rem;
+  color: #fff;
+}
+
+.upload-prompt .supported-formats {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #888;
+  font-size: 0.9rem;
+}
+
+.video-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.video-info .video-icon {
+  color: #23d160;
+}
+
+.video-info .video-details {
+  font-size: 0.9rem;
+  color: #888;
+  text-align: center;
+}
+
+.video-info .change-video {
+  font-size: 0.9rem;
+  color: #aaa;
+}
+
+.upload-error {
+  margin-top: 1rem;
+  color: #ff3860;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}

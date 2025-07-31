@@ -1,0 +1,56 @@
+.progress-indicator {
+  margin-top: 1rem;
+  border: 1px solid #333;
+  border-radius: 8px;
+  background: #111;
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  color: #fff;
+  font-size: 0.9rem;
+}
+
+.loader {
+  color: #667eea;
+  animation: rotate 1s linear infinite;
+}
+
+@keyframes rotate {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.progress-details {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.progress-status {
+  color: #ccc;
+}
+
+.progress-bar {
+  height: 8px;
+  border-radius: 4px;
+  background: #333;
+  overflow: hidden;
+}
+
+.progress-bar-fill {
+  height: 100%;
+  background: #667eea;
+  transition: width 0.2s ease;
+}
+
+.progress-percentage {
+  color: #888;
+  text-align: right;
+}
+
+.complete-status {
+  color: #23d160;
+}
